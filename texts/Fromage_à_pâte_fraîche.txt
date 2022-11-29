@@ -1,0 +1,123 @@
+{{ébauche|fromage}}
+{{Infobox Fromage
+ | nom   = Fromage à pâte fraîche
+ | image =
+ |légende =
+ | pays  = 
+ | lieu  =
+ | lait  = divers et petit laits
+ | pâte  = [[Fromages à pâte fraîche| fraîche]]
+ | aoc   = non protégée
+}}
+
+'''Fromage à pâte fraîche''' est une appellation désignant un [[fromage]] jeune, sans croûte formée, élaboré à partir de [[lait]], [[lait écrémé]], de [[Lactosérum|petit-lait]] ou de composants du lait ([[caséine]] et matières grasses), et dont la pâte n'a pas été [[Affinage du fromage|affinée]].
+
+Cette appellation correspond à une catégorie technologique, celle des fromages non affinés qui sont les plus simples à élaborer (voir [[Types de pâtes de fromage]]).
+
+En France, elle peut s'appuyer sur la définition légale des « fromages blancs... avec le qualificatif frais », décret {{n°|2007-628}} du 27 avril 2007 relatif aux fromages et spécialités fromagères, version consolidée au  29 mars 2020<ref>{{Lien web|langue=|auteur1=|titre=Décret n°2007-628 du 27 avril 2007 relatif aux fromages et spécialités fromagères|url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006056036|site=Legifrance|périodique=|date=29 mars 2020|consulté le=29 mars 2020}}</ref>.
+
+Du point de vue technologique, un [[fromage blanc]] est obtenu à partir d'un caillage assuré principalement par la fermentation et donne un produit acide alors que les fromages à pâte fraîche peuvent aussi être obtenus par un caillage à dominante [[présure]] et donnent donc aussi des produits doux. De ce point de vue qui est retenu dans les articles de Wikipedia, l'appellation fromage à pâte fraîche est donc plus générale que l'appellation fromage blanc.
+
+La distinction des fromages à pâtes fraîches d'avec les [[yaourt]]s et [[Lait fermenté|laits fermentés]] tient dans le fait que ces produits ne sont pas égouttés (1 l de lait donne 1 l de produit fini) alors qu'un fromage l'est obligatoirement.
+
+Les [[Fromage de lactosérum|fromages de lactosérum]] entrent dans la catégorie des fromages à pâte fraîche s'ils sont consommés frais, bien que la coagulation du petit-lait soit très généralement obtenue par chauffage. Cependant certains de ces fromages peuvent aussi être légèrement affinés, ainsi le [[brunost]] norvégien entre éventuellement dans la catégorie des [[fromages à pâte pressée cuite]].
+
+Du point de vue du producteur, les fromages à pâtes fraîches présentent l'avantage d'éviter les immobilisations dues à l'affinage et certaines marques sont très industrialisées ([[fromage à la crème]], petits-suisses notamment).
+
+== Méthodes d'obtention ==
+=== Fromage ===
+Le caillage du lait est obtenu par ensemencement naturel ([[rayeb]] traditionnel) ou l'ajout de [[Bactérie lactique|culture bactérienne]] et de [[présure]] au lait, puis s'amorce un processus d'égouttage léger qui permet d'obtenir une pâte d'une consistance plus ferme tout en lui conservant un taux d'humidité très élevé, de 60 à 80 % et une teneur en matière grasse variable de 0,5 à 30 %.
+
+=== Fromage de lactosérum ===
+Le lactosérum ne contient plus de caséine mais seulement [[Albumine|albumines]], [[lactose]] et parfois matières grasses. Pour obtenir la coagulation, il faut soit rajouter du lait frais, soit chauffer et éventuellement acidifier directement le petit-lait. Ces fromages ne sont évidemment des pâtes fraîches que s'ils sont consommés frais. Sinon une fermentation secondaire apparaît rapidement; ils peuvent être plus ou moins affinés après salage et prennent alors un goût prononcé comme le ''brocciu passu'' en Corse ou le brunost en Norvège mais ce ne sont plus des fromages frais.
+
+==== Par concentration ====
+Le lactosérum peut être transformé en fromage par évaporation à chaud, parfois additionné de lait, de crème, puis moulé.<br /> 
+La teneur en lactose de ce type de fromage étant assez élevée, sa couleur oscille entre le jaune pâle et le marron, avec un goût doux, cuit ou caramélisé<ref name="codex">[http://www.codexalimentarius.org/input/download/standards/176/CXS_284f.pdf ''Norme codex pour les fromages de lactosérum''], [[Codex Alimentarius]], CODEX STAN 284-1971</ref> ([[gjetost]], [[brunost]]…).
+
+==== Par thermocoagulation ====
+Le lactosérum peut être transformé en fromage par précipitation à chaud (80-90 °C), parfois additionné de lait, de crème. La pâte grumeleuse obtenue est ensuite égouttée, formée, et le fromage obtenu peut être un peu affiné ou non. La teneur en lactose de ce type de fromage étant relativement faible, sa couleur varie du blanc au jaune pâle.
+
+==== Par acidification directe ====
+Pour les fromages de lait à pâte fraîche, l'acidification et la coagulation sont des conséquences de la [[fermentation lactique]]. Cette acidification peut être obtenue directement par l'ajout de vinaigre ou de jus de citron et complète l'action d'un chauffage léger pour obtenir la coagulation. Cette méthode est utilisée en particulier pour l'élaboration du mascarpone et des cottage cheese (exemple<ref>{{Lien web|langue=|auteur1=|titre=cottage cheese maison|url=https://www.chefnini.com/cottage-cheese-maison/|site=chefnini|périodique=|date=2012|consulté le=29 mars 2020}}</ref>).
+
+== Aspect ==
+[[Fichier:Fromage frais de chêvre.jpg|vignette|[[Fromage fermier]] frais au lait de chèvre produit à [[Sainte-Maure-de-Touraine]] (France), salé et cendré|alt=]]
+Les fromages à pâte fraîche sont d'un blanc éclatant, d'une texture molle, granuleuse ou lisse, crémeuse et veloutée selon le fromage. 
+
+== Utilisation ==
+Les fromages à pâte fraîche se mélangent bien à d'autres ingrédients et [[arôme]]s comme les [[fines herbes]], l'[[ail cultivé|ail]], des [[épice]]s ou des [[fruit (alimentation humaine)|fruit]]s, le miel, la crème de châtaigne, les confitures. Un exemple de ces mélanges est la [[cervelle de canut]]. Ils peuvent entrer dans la composition de gâteaux comme le [[cheesecake]] ou le [[tourteau fromagé]]. La [[tomme fraîche]] est indispensable à la préparation de plats comme l'[[aligot]].
+
+Les pâtes fraîches sont très utilisées en alimentation industrielle de masse, en particulier les fromages à la crème de  type mascarpone ou philadelphia qui prennent la place des fromages affinés à pâte molle, et les pâtes filées de type mozzarella qui remplacent les pâtes pressées ou cuites traditionnelles. Elles sont aussi à la base de la fabrication des fromages industriels à pâte fondue ([[Vache qui rit]]) et de nombreux desserts et apéritifs. Elles sont des ingrédients incontournables des plats de la [[restauration rapide]] : pizzas, sandwiches, hamburgers, crêpes, et collective industrielle : salades, gratins, ''dessert ou fromage.''
+
+== Appellations diverses ==
+
+===Fromages à pâte fraîche à base de [[lait]] ou [[lait écrémé]]===
+Ces fromages font l'objet de diverses appellations régionales<ref name=froc>[[Jean Froc]], ''Balade au pays des fromages'', éditions Quae, 2007 {{ISBN|978-2759200177}}</ref>.
+
+La [[Caillebotte (fromage)|caillebotte]], (Poitou et Charentes, principalement) et certains caillés (''recuit'' en Catalan...) représentent un cas à part, puisqu'étant très peu égouttés, leur classification comme fromage est contestable<ref>{{Ouvrage|auteur1=Joseph-Pierre Guiraud|titre=Microbiologie alimentaire|lieu=Paris|éditeur=[[Éditions Dunod|Dunod]]|année=2012|isbn=}}</ref>. Le caillage est obtenu seulement avec de la présure, ce qui est aussi le cas de la jonchée et de la tomme blanche. Le Poitou et les Charentes utilisaient le terme ''fromage mou'' (''feurmage mouc'' en [[Poitevin (langue)|poitevin]]) pour le fromage à pâte fraîche fermentée (fromage blanc) bien différencié de la caillebotte et de la jonchée. La jonchée d'[[Aunis]] ou de Niort subit un léger égouttage par exposition sur un paillon de [[Juncus effusus|joncs]]. 
+
+Les caillés de chèvre, cendrés ou non, de forme ''Sainte-maure'' sont couramment consommés frais et peuvent être appelés ''fromages blancs de chèvre,'' mais le même caillé mieux égoutté et affiné devient un ''fromage à pâte molle et croûte cendrée'' ([[Sainte-maure-de-touraine]]) en gardant presque le même nom. Des distinctions similaires peuvent être faites pour d'autres ''chèvres''.
+
+*[[Caillé]], Midi de la France
+*''Caș'', Roumanie
+*[[Claquebitou]], au lait de chèvre, Bourgogne
+*[[Fromage à pâte filée]] consommé frais, Italie, exemple : [[Fior di latte]]. Productions industrielles dans les grands pays producteurs de fromage
+*[[Fromage en grains]], [[Québec]], [[Amérique du Nord]]
+
+*[[Feta]] (Grèce, Balkans), conservé en saumure
+*[[Fromage blanc]], nombreuses productions artisanales et industrielles
+*[[Faisselle]], fromage blanc généralement vendu dans sa faisselle, Centre de la France (Berry), Région lyonnaise, Lorraine
+*[[Jonchée (fromage)|Jonchée]], Aunis, marais poitevin
+*[[Labné]], ''suzme'' et ''labneh anbaris'', Liban et pays de traditions culinaires ottomanes
+*[[Maquée]], Belgique
+*[[Mató]] : [[Catalogne]]
+*[[Panir]] (Inde, Iran)
+*[[Petit-suisse]] : France
+*[[Recuit de drap]] : Catalogne, égoutté par filtrage dans une toile
+*{{Page h'|Séré}}<ref name="séré">{{article|langue=fr|prénom1=|nom1=|lien auteur1=|titre=Qu’est-ce que le séré ?|périodique=swissmilk|lien périodique=|volume=|numéro=|titre volume=Factsheet|jour=|mois=|année=2012|pages=|issn=|url texte=http://www.swissmilk.ch/de/services/publikationen/-dl-/fileadmin/filemount/factsheet-produits-laitiers-sere-fr.pdf|format=pdf|consulté le=25 novembre 2012}} : le séré est un [[caillé|fromage frais]] de couleur blanche au goût légèrement acidulé. Il est fabriqué avec du [[lait écrémé]] auquel on ajoute des [[bactérie]]s [[acide lactique|lactiques]] et un peu de [[présure]]. Sa consistance peut être ferme à crémeuse en fonction de la quantité de [[matière grasse]] qu’il contient.</ref>
+*[[Tome fraîche]], Haute-Auvergne, Rouergue, Haut-Languedoc
+*[[Tomme blanche]], Savoie
+
+===Fromages à pâte fraîche à base de petit-lait ([[lactosérum]])===
+* {{lien|fr=Anari (fromage)|lang=es|trad=Anari (queso)|texte=Anari}} : Chypre
+* {{lien|fr=Anthotyros|lang=en}} : Crète
+* [[Brocciu]] : [[Corse]] (France)
+*[[Brossat (fromage)|Brossat]] : Catalogne
+* [[Brousse (fromage)|Brousse]] :  Provence (France)
+*[[Cottage cheese]] : Royaume-Uni, Amérique du Nord, Pologne. Le cottage cheese peut aussi être obtenu à partir de lait écrèmé mais toujours en principe par chauffage et acidification directe.
+* ''Greuilh'' : [[Hautes-Pyrénées]] (France)
+* [[Manouri]] : Grèce
+* [[Mizithra]] ou myzithra : Grèce
+* ''Primost'' : Norvège et Suède
+* [[Recuite]] : [[Aveyron (département)|Aveyron]] (France)
+* ''Requesón'' : Espagne et monde hispanique
+* [[Ricotta]] : Italie et Tessin (Suisse)
+* [[Rigouta]] :  Tunisie
+* ''Schottenziger'' : Suisse
+* [[Sérac (fromage)|Sérac]] : Suisse (''Ziger'' en Suisse alémanique) et France (Alpes et Jura)
+* [[Fromage tcherkesse]] (lait et petit-lait), [[Russie]], [[Turquie]], [[Ukraine]]
+* [[Urdă]] : Roumanie
+* {{lien|fr=Ziger|lang=de}} : nom du sérac en Europe de l'Est et centrale, notamment en Allemagne, Autriche et Suisse
+* ''Zincica'' : Roumanie, ex-Yougoslavie, Tchécoslovaquie
+
+=== Fromages à pâte fraîche à base de [[Crème (produit laitier)|crème]] ===
+La fabrication du mascarpone s'apparente à celle des fromages à base de petit-lait (chauffage et acidification directe) mais la matière première est la crème de lait.
+
+* [[Mascarpone]], Italie
+*Manouri, Nord de la Grèce, peut être fabriqué à partir d'un mélange de crème et petit- lait<ref>{{Lien web|langue=|auteur1=|titre=Le manouri AOP (Grèce)|url=http://marcdelage.unblog.fr/2012/04/17/le-manouri-aop-grece/|site=è molto goloso|périodique=|date=2012|consulté le=31 mars 2020}}</ref>.
+*[[Fromage à la crème]], ''cream cheese'', ''philadelphia'' : les marques industrielles de ces fromages sont très populaires en Amérique du Nord. En France, le [[Boursin (marque)]], certains petits-suisses s'en rapprochent, avec une proportion de crème moindre.
+
+=== Notes et références ===
+{{Références}}
+
+== Articles connexes ==
+{{Autres projets|commons=category:Cream cheese}}
+* [[Types de pâtes de fromage]]
+* [[Bibeleskaes]]
+
+{{Palette Types de pâtes de fromage}}
+{{Portail|fromage}}
+
+[[Catégorie:Appellation fromagère française]]
+[[Catégorie:Fromage à pâte fraîche|*]]
