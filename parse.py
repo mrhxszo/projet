@@ -64,24 +64,47 @@ class FileSearch:
 
     def wordIndex(self):
         """ generates a dictionary of significative words from a dictionary of list of sentences in python"""
+        less4 = self.lessThan(self.indexedFile)
+        capital = self.startCapital(less4)
+
+        with open("keywords.json", "w", encoding="utf8") as outfile:#json file to check how the dictionary looks like
+            json.dump(capital, outfile)
+
+    def lessThan(self, phrases):
+
+        """takes in a list of phrases filters them for non alphanumeric characters and gives and returns
+         a dictionary of words with index of sentence"""
         
         newless4 = {}
-        for k in self.indexedFile:
-            words = self.indexedFile[k][0].split(' ')
+        for k in phrases:
+            words = phrases[k][0].split(' ')
             for word in words:
-                word = re.sub(r"[^a-zA-zÀ-Üà-øoù-ÿŒœé]*", '',word)
-                word = re.sub(r"[\[\]]*", '',word)
-                word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,4}\b", '',word)
-                word = word.lower()
+                word = re.sub(r"[^a-zA-zÀ-Üà-øoù-ÿŒœé]*", '',word)#filters all non alphanumeric characters
+                word = re.sub(r"[\[\]]*", '',word)#above didn't work for '[]' so added this
+                word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,4}\b", '',word)#eliminates words less than 5 letters
                 if (word != '') & (word not in newless4.keys()):
                     newless4[word] =[k]
                 elif(word in newless4.keys()):
                     newless4[word].append(k)
-
-        with open("keywords.json", "w") as outfile:#json file to check how the dictionary looks like
-            json.dump(newless4, outfile)
-
         
+        return newless4
+
+    def startCapital(self, phrases):
+        capital = {}
+
+        for word in phrases:
+            if (re.search(r"^[A-Z]+[a-zà-øoù-ÿŒœé]*",word)):
+                word =re.search(r"^[A-ZÀ-Ü][a-zà-øoù-ÿŒœé]*",word).group()#words starting with capital letters
+                word = word.lower()#turn every word to lower case
+            else:
+                word = ''
+            
+            if (word != '') & (word not in capital.keys()):
+                capital[word] =[k]
+            elif(word in capital.keys()):
+                capital[word].append(k)
+        return capital
+
 filee = FileSearch()
 filee.parse("./texts")
 filee.wordIndex()
@@ -112,4 +135,3 @@ filee.wordIndex()
         
         
 # print(line2)
-            
