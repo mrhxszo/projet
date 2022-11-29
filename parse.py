@@ -44,7 +44,24 @@ class FileSearch:
         with open("sample.json", "w") as outfile:#json file to check how the dictionary looks like
             json.dump(self.indexedFile, outfile)
 
+    def search(self,dico,mot_cle):
+        #return une liste avec les index des phrases qui matchent 
+        for mot_sign in dico.keys():
+            for mot in mot_cle:
+                if mot == mot_sign:
+                    self.match.extend(dico[mot_sign])
 
+        #supprime les doublons
+        new_list = [] 
+        for i in self.match : 
+            if i not in new_list: 
+                new_list.append(i)
+
+        #affiche les phrases qui matche
+        res_final=[]
+        for i in new_list:
+            res_final.append(self.indexedFile[i])
+        print(res_final)
 
     def index(self, file):
         """takes in a text file as an argument and returns indexed list of each sentence"""
