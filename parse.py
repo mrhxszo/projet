@@ -9,9 +9,14 @@ os.system("clear")
 class FileSearch:
 
     #defined i and indexedfile as static attributes because parse is called recursively and calling them inside the method won't conserve the value
-    i = 0 
+    i = 0
+    j=0
     indexed_doc={}
     indexedFile = {}
+    """"
+    indexed_word = {}
+    matches = [[]]
+    """
 
     def parse(self, files) :
 
@@ -22,22 +27,26 @@ class FileSearch:
             else :
                 chain = file.split(".")
                 #index the sentence in the file and put it inside indexedfile dictionary
-                indexed = self.index(files + "/" + file, self.i)
+                indexed = self.index(files + "/" + file)
 
 
                 self.indexed_doc[self.i]=chain[0]
 
-                #self.indexedFile[self.i] = indexed #{"index de document":{"index de phrase": "la phrase"}}
+                #self.indexedFile[self.i] = [indexed[1], self.i] #{"index de document":{"index de phrase": "la phrase"}}
 
-                
+
                 self.i += 1
 
+                for self.j in range (len(indexed)):
+                    self.indexedFile[self.j] = [indexed[self.j],self.i]
+            
+        
         with open("sample.json", "w") as outfile:#json file to check how the dictionary looks like
-            json.dump(indexed, outfile)
+            json.dump(self.indexedFile, outfile)
 
 
 
-    def index(self, file, ind):
+    def index(self, file):
         """takes in a text file as an argument and returns indexed list of each sentence"""
         i = 0
         content = []
@@ -52,7 +61,7 @@ class FileSearch:
                 Line = f.readline()
 
             indexed = {
-                i : [(content[i] for i in range(0, len(content))), ind]#associate each sentence with a number
+                i : content[i] for i in range(0, len(content))#associate each sentence with a number
             }
             
         return indexed
