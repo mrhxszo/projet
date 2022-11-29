@@ -33,7 +33,7 @@ class FileSearch:
                 self.i += 1
 
         with open("sample.json", "w") as outfile:#json file to check how the dictionary looks like
-            json.dump(indexed, outfile, iterable_as_array=True)
+            json.dump(indexed, outfile)
 
 
 
@@ -63,7 +63,7 @@ filee.parse("./texts")
 ###############################algorithm to rejoin abberviations like Dr. Mr. while splitting sentences with fullstop.################################
 
 
-# test = "my name is Dr. Dres. Here to say hello."
+# test = "my name is Dr. Dres. Here to say hello." qsdhcbiqsudciqusd
 # list = re.search("\\s.{1,2}\\.", test).group()
 
 # #split the line but keep the delimiter to identify the Dr. later
