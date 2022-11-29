@@ -8,53 +8,59 @@ os.system("clear")
 
 class FileSearch:
 
-    ext = {}
-    repertoire = None
+    #defined i and indexedfile as static attributes because parse is called recursively and calling them inside the method won't conserve the value
+    i = 0 
+    indexed_doc={}
+    indexedFile = {}
 
-    def parse(self, file) :
+    def parse(self, files) :
 
-        print("Je suis dans "+ file)
-
-        liste = os.listdir(file)
-        for fichier in liste :
-            if os.path.isdir(file + "/" +fichier) :
-                self.parse(file + "/"+fichier)
+        list = os.listdir(files)
+        for file in list:
+            if os.path.isdir(files + "/" + file) :
+                self.parse(files + "/"+ file)
             else :
-                #create a dictionary with the name of the file as key
-                #then associate it with another dicitonary [sentence no. : sentence]
-                chaines = fichier.split(".")
-                print(chaines)
-                #a method that returns the dictionary of indexed sentences
+                chain = file.split(".")
+                #index the sentence in the file and put it inside indexedfile dictionary
+                indexed = self.index(files + "/" + file, self.i)
 
-    def index(self, file):
 
+                self.indexed_doc[self.i]=chain[0]
+
+                #self.indexedFile[self.i] = indexed #{"index de document":{"index de phrase": "la phrase"}}
+
+                
+                self.i += 1
+
+        with open("sample.json", "w") as outfile:#json file to check how the dictionary looks like
+            json.dump(indexed, outfile, iterable_as_array=True)
+
+
+
+    def index(self, file, ind):
+        """takes in a text file as an argument and returns indexed list of each sentence"""
         i = 0
         content = []
-        with open(file) as f:
+        with open(file) as f:#outer loop to read eachline and create indexed file
             Line = f.readline()
-            while Line!='':
+            while Line!='':#inner loop to split the line with "."
 
-                a = re.search(".??\.", Line)#search for caracter like Mr. C. etc
-
-                test = "my name is Dr. Dre. And i am a man."
-                print(re.split("[.{3,}\.]", test))
-                Line1 = Line.split("[.{3,}\.]")
+                Line1 = Line.split(".")
 
                 for sentence in Line1:
                     content.append(sentence)
                 Line = f.readline()
 
-        indexed = {
-            i : content[i] for i in range(0, len(content))
-        }
-        with open("sample.json", "w") as outfile:
-            json.dump(indexed, outfile)
-
+            indexed = {
+                i : [(content[i] for i in range(0, len(content))), ind]#associate each sentence with a number
+            }
+            
+        return indexed
 
 filee = FileSearch()
-#filee.index("./texts/Fromage")
+filee.parse("./texts")
 
-###############################algorithm to rejoin abberviations like Dr. Mr. while splitting sentences with from full stop.################################
+###############################algorithm to rejoin abberviations like Dr. Mr. while splitting sentences with fullstop.################################
 
 
 # test = "my name is Dr. Dres. Here to say hello."
