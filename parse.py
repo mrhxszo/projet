@@ -13,10 +13,6 @@ class FileSearch:
     j=0
     indexed_doc={}
     indexedFile = {}
-    """"
-    indexed_word = {}
-    matches = [[]]
-    """
 
     def parse(self, files) :
 
@@ -66,8 +62,29 @@ class FileSearch:
             
         return indexed
 
+    def wordIndex(self):
+        """ generates a dictionary of significative words from a dictionary of list of sentences in python"""
+        
+        newless4 = {}
+        for k in self.indexedFile:
+            words = self.indexedFile[k][0].split(' ')
+            for word in words:
+                word = re.sub(r"[^a-zA-zÀ-Üà-øoù-ÿŒœé]*", '',word)
+                word = re.sub(r"[\[\]]*", '',word)
+                word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,4}\b", '',word)
+                word = word.lower()
+                if (word != '') & (word not in newless4.keys()):
+                    newless4[word] =[k]
+                elif(word in newless4.keys()):
+                    newless4[word].append(k)
+
+        with open("keywords.json", "w") as outfile:#json file to check how the dictionary looks like
+            json.dump(newless4, outfile)
+
+        
 filee = FileSearch()
 filee.parse("./texts")
+filee.wordIndex()
 
 ###############################algorithm to rejoin abberviations like Dr. Mr. while splitting sentences with fullstop.################################
 
