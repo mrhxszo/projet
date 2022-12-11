@@ -65,10 +65,12 @@ class FileSearch:
     def wordIndex(self):
         """ generates a dictionary of significative words from a dictionary of list of sentences in python"""
         less4 = self.lessThan(self.indexedFile)
-        capital = self.startCapital(less4)
+        capital = self.startCapital(self.indexedFile)
+        merged = less4.copy()
+        merged.update(capital)
 
         with open("keywords.json", "w", encoding="utf8") as outfile:#json file to check how the dictionary looks like
-            json.dump(capital, outfile)
+            json.dump(merged, outfile)
 
     def lessThan(self, phrases):
 
@@ -91,18 +93,21 @@ class FileSearch:
 
     def startCapital(self, phrases):
         capital = {}
-
-        for word in phrases:
-            if (re.search(r"^[A-Z]+[a-zà-øoù-ÿŒœé]*",word)):
-                word =re.search(r"^[A-ZÀ-Ü][a-zà-øoù-ÿŒœé]*",word).group()#words starting with capital letters
-                word = word.lower()#turn every word to lower case
-            else:
-                word = ''
-            
-            if (word != '') & (word not in capital.keys()):
-                capital[word] =[k]
-            elif(word in capital.keys()):
-                capital[word].append(k)
+        
+        for k in phrases:
+            words = phrases[k][0].split(' ')
+            for word in words:
+                if (re.search(r"^[A-Z]+[a-zà-øoù-ÿŒœé]*",word)):
+                    word =re.search(r"^[A-ZÀ-Ü][a-zà-øoù-ÿŒœé]*",word).group()#words starting with capital letters
+                    word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,3}\b", '',word)#eliminates words less than 5 letters
+                    word = word.lower()#turn every word to lower case
+                else:
+                    word = ''
+                
+                if (word != '') & (word not in capital.keys()):
+                    capital[word] = [k]
+                elif(word in capital.keys()):
+                    capital[word].append(k)
         return capital
 
 filee = FileSearch()
