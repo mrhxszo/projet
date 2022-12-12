@@ -4,7 +4,6 @@
 import sys, os
 import re
 import json
-os.system("clear")
 
 class FileSearch:
 
@@ -47,7 +46,7 @@ class FileSearch:
         """takes in a text file as an argument and returns indexed list of each sentence"""
         i = 0
         content = []
-        with open(file) as f:#outer loop to read eachline and create indexed file
+        with open(file, encoding="utf8") as f:#outer loop to read eachline and create indexed file
             Line = f.readline()
             while Line!='':#inner loop to split the line with "."
 
