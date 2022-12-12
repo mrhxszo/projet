@@ -13,6 +13,7 @@ class FileSearch:
     j=0
     indexed_doc={}
     indexedFile = {}
+    match=[]
 
     def parse(self, files) :
 
@@ -111,6 +112,25 @@ class FileSearch:
                 elif(word in capital.keys()):
                     capital[word].append(k)
         return capital
+
+    def search(self,dico,mot_cle):
+        #return une liste avec les index des phrases qui matchent 
+        for mot_sign in dico.keys():
+            for mot in mot_cle:
+                if mot == mot_sign:
+                    self.match.extend(dico[mot_sign])
+
+        #supprime les doublons
+        new_list = [] 
+        for i in self.match : 
+            if i not in new_list: 
+                new_list.append(i)
+
+        #affiche les phrases qui matche
+        res_final=[]
+        for i in new_list:
+            res_final.append(self.indexedFile[i])
+        print(res_final)
 
 filee = FileSearch()
 filee.parse("./texts")
