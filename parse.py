@@ -37,7 +37,7 @@ class FileSearch:
                     self.indexedFile[self.j] = [indexed[self.j],self.i]
             
         
-        with open("sample.json", "w") as outfile:#json file to check how the dictionary looks like
+        with open("sample.json", "w") as outfile:#json file of sentences to check how the dictionary looks like
             json.dump(self.indexedFile, outfile)
 
 
@@ -81,9 +81,10 @@ class FileSearch:
         for k in phrases:
             words = phrases[k][0].split(' ')
             for word in words:
-                word = re.sub(r"[^a-zA-zÀ-Üà-øoù-ÿŒœé]*", '',word)#filters all non alphanumeric characters
+                word = re.sub(r"[^a-zA-zÀ-Üà-øoù-ÿŒœé]*", '',word)#filters all non alphabetic characters
                 word = re.sub(r"[\[\]]*", '',word)#above didn't work for '[]' so added this
                 word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,4}\b", '',word)#eliminates words less than 5 letters
+                word = word.lower()#turn every word to lower case
                 if (word != '') & (word not in newless4.keys()):
                     newless4[word] =[k]
                 elif(word in newless4.keys()):
@@ -92,6 +93,7 @@ class FileSearch:
         return newless4
 
     def startCapital(self, phrases):
+        """takes a list of phrases filters unnecessary symbols and returns a dictionary with all words starting with capital letters (turned to lowercase)"""
         capital = {}
         
         for k in phrases:
@@ -113,30 +115,3 @@ class FileSearch:
 filee = FileSearch()
 filee.parse("./texts")
 filee.wordIndex()
-
-###############################algorithm to rejoin abberviations like Dr. Mr. while splitting sentences with fullstop.################################
-
-
-# test = "my name is Dr. Dres. Here to say hello." qsdhcbiqsudciqusd
-# list = re.search("\\s.{1,2}\\.", test).group()
-
-# #split the line but keep the delimiter to identify the Dr. later
-# d = "."
-# for line in test:
-#     line1 =  [e+d for e in test.split(d) if e]
-
-# line2 = []
-
-# iter=iter(range(0,len(line1)))#this required for next() to work
-# for i in iter:
-#     pattern = re.search("\\s.{1,2}\\.", line1[i])
-#     if (pattern): #checks if pattern exists otherwise .group method error
-#         if pattern.group() in list:
-#             line2.append(''.join([line1[i],line1[i+1]]))#if pattern found join the next and current
-#             next(iter,None)#to avoid 
-#     else :
-#         line2.append(line1[i])#if not found join the rest
-#     print(i)
-        
-        
-# print(line2)
