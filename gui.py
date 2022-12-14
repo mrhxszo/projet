@@ -3,6 +3,7 @@
 
 import customtkinter
 from parse import FileSearch
+from stanzafr import lemma
 
 ### FENETRE PRINCIPALE
 

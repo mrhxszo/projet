@@ -4,6 +4,7 @@
 import sys, os
 import re
 import json
+from stanzafr import lemma
 
 class FileSearch:
 
@@ -81,8 +82,8 @@ class FileSearch:
 
     def lessThan(self, phrases):
 
-        """takes in a list of phrases filters them for non alphanumeric characters and gives and returns
-         a dictionary of words with index of sentence"""
+        """takes in a list of phrases filters them for non alphabetic characters and gives and returns
+         a dictionary of words with index(es) of sentence(s)"""
         
         newless4 = {}
         for k in phrases:
@@ -92,10 +93,13 @@ class FileSearch:
                 word = re.sub(r"[\[\]]*", '',word)#above didn't work for '[]' so added this
                 word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,4}\b", '',word)#eliminates words less than 5 letters
                 word = word.lower()#turn every word to lower case
+                
                 if (word != '') & (word not in newless4.keys()):
+                    word = lemma(word) #converts the word into 'standard' form using stanza
                     newless4[word] =[k]
                 elif(word in newless4.keys()):
-                    newless4[word].append(k)
+                    if(word):
+                        newless4[word].append(k)
         
         return newless4
 
@@ -108,21 +112,29 @@ class FileSearch:
             for word in words:
                 if (re.search(r"^[A-Z]+[a-zà-øoù-ÿŒœé]*",word)):
                     word =re.search(r"^[A-ZÀ-Ü][a-zà-øoù-ÿŒœé]*",word).group()#words starting with capital letters
-                    word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,3}\b", '',word)#eliminates words less than 5 letters
+                    word =re.sub(r"\b[\wa-zA-zÀ-Üà-øoù-ÿŒœ]{1,3}\b", '',word)#eliminates words less than 3 letters
                     word = word.lower()#turn every word to lower case
+                    
                 else:
                     word = ''
                 
                 if (word != '') & (word not in capital.keys()):
+                    word = lemma(word) #converts the word into 'standard' form using stanza
                     capital[word] = [k]
                 elif(word in capital.keys()):
-                    capital[word].append(k)
+                    if (word):
+                        capital[word].append(k)
         return capital
 
     def search(self,dico,mot_cle):
+        #stanza conversion
+        stanzamot_cle = []
+        for mot in mot_cle:
+            stanzamot_cle.append(lemma(mot))
+
         #return une liste avec les index des phrases qui matchent 
         for mot_sign in dico.keys():
-            for mot in mot_cle:
+            for mot in stanzamot_cle:
                 if mot == mot_sign:
                     self.match.extend(dico[mot_sign])
 
@@ -141,3 +153,5 @@ class FileSearch:
 
 filee = FileSearch()
 filee.parse("./texts")
+
+filee.search(filee.wordIndex(), ['surveillance'])

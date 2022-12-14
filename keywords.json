@@ -6,11 +6,7 @@
         0
     ],
     "fromage": [
-        482,
-        495,
-        771,
-        991,
-        1032
+        1057
     ],
     "lactos\u00e9rum": [
         0,
@@ -35,12 +31,10 @@
         0
     ],
     "artisanal": [
-        0,
-        403
+        609
     ],
-    "\u00e9labor\u00e9": [
-        0,
-        483
+    "\u00e9laborer": [
+        703
     ],
     "tunisie": [
         0
@@ -54,15 +48,10 @@
     "historiquement": [
         1
     ],
-    "fabriqu\u00e9": [
-        1,
-        1,
-        137
+    "fabriquer": [
+        605
     ],
-    "petitlait": [
-        1,
-        569,
-        577,
+    "petitler": [
         605
     ],
     "brebis": [
@@ -71,15 +60,7 @@
     "sicilosarde": [
         1
     ],
-    "jours": [
-        1,
-        11,
-        217,
-        249,
-        267,
-        271,
-        597,
-        792,
+    "jour": [
         1079
     ],
     "partir": [
@@ -91,8 +72,7 @@
         721
     ],
     "vache": [
-        1,
-        63,
+        130,
         149,
         450,
         935
@@ -105,22 +85,13 @@
         222,
         609
     ],
-    "chauff\u00e9": [
-        5,
-        6,
-        606,
-        619,
+    "chauffer": [
         621
     ],
-    "ajout\u00e9": [
-        5,
-        7,
-        194
+    "ajouter": [
+        678
     ],
     "litre": [
-        5
-    ],
-    "litres": [
         5
     ],
     "lensemble": [
@@ -131,23 +102,15 @@
         698
     ],
     "coaguler": [
-        6
+        243
     ],
-    "prot\u00e9ines": [
-        6,
-        307,
-        536,
-        657,
-        804,
+    "prot\u00e9ine": [
         830
     ],
-    "albumines": [
-        6,
-        530,
-        606,
+    "albumine": [
         664
     ],
-    "globulines": [
+    "globuline": [
         6
     ],
     "vinaigre": [
@@ -161,34 +124,16 @@
         570
     ],
     "acc\u00e9l\u00e9rer": [
-        7
+        687
     ],
     "formation": [
         7,
         596
     ],
     "caill\u00e9": [
-        7,
-        8,
-        11,
-        63,
-        243,
-        533,
-        533,
-        569,
-        572,
-        574,
-        577,
-        582,
-        683,
-        683,
-        687,
-        687,
-        687,
-        749
+        784
     ],
-    "remonte": [
-        8,
+    "remonter": [
         1085
     ],
     "surface": [
@@ -203,23 +148,20 @@
     "chauffage": [
         552
     ],
-    "arr\u00eat\u00e9": [
+    "arr\u00eater": [
         8
     ],
-    "brass\u00e9": [
-        8,
+    "brasser": [
         243
     ],
     "temp\u00e9rature": [
-        8,
-        262,
-        271,
+        294,
         553,
         603,
         671,
         1073
     ],
-    "ambiante": [
+    "ambiant": [
         8
     ],
     "durant": [
@@ -234,25 +176,22 @@
         724,
         795
     ],
-    "heures": [
-        8,
-        238,
+    "heure": [
         791
     ],
-    "r\u00e9cup\u00e9r\u00e9": [
-        11
+    "r\u00e9cup\u00e9rer": [
+        536,
+        664
     ],
-    "plac\u00e9": [
-        11,
+    "placer": [
         293
     ],
-    "moules": [
-        11,
-        224,
-        244,
-        581
+    "moule": [
+        581,
+        624,
+        625
     ],
-    "perfor\u00e9s": [
+    "perfor\u00e9": [
         11
     ],
     "traditionnellement": [
@@ -284,7 +223,7 @@
     "r\u00e9cipient": [
         11
     ],
-    "perc\u00e9": [
+    "percer": [
         11
     ],
     "plastique": [
@@ -293,19 +232,12 @@
         268
     ],
     "m\u00e9tal": [
-        11
+        853
     ],
-    "principaux": [
-        728,
-        901,
-        935,
+    "principal": [
         951
     ],
-    "microorganismes": [
-        12,
-        234,
-        696,
-        728,
+    "microorganisme": [
         749
     ],
     "fermentation": [
@@ -344,13 +276,16 @@
         1063,
         1079
     ],
-    "nombreuses": [
+    "nombreux": [
+        15,
+        700,
+        857,
+        1036
+    ],
+    "pr\u00e9paration": [
         15
     ],
-    "pr\u00e9parations": [
-        15
-    ],
-    "culinaires": [
+    "culinaire": [
         15
     ],
     "gastronomie": [
@@ -360,8 +295,8 @@
     "contrairement": [
         17
     ],
-    "pourrait": [
-        17
+    "pouvoir": [
+        987
     ],
     "laisser": [
         17,
@@ -379,7 +314,7 @@
         1085
     ],
     "petitsuisse": [
-        17,
+        24,
         40,
         43,
         44,
@@ -387,10 +322,11 @@
         72,
         543
     ],
-    "normande": [
+    "normand": [
         17
     ],
     "suisse": [
+        28,
         69,
         72,
         890,
@@ -405,18 +341,11 @@
         1061,
         1063
     ],
-    "ann\u00e9es": [
-        18,
-        43,
-        43,
-        721,
-        725,
-        837,
+    "ann\u00e9e": [
         1081
     ],
-    "employ\u00e9": [
-        18,
-        775
+    "employer": [
+        18
     ],
     "vacher": [
         18
@@ -442,13 +371,13 @@
     "villerssurauchy": [
         18
     ],
-    "picardie": [
+    "picardi": [
         18
     ],
     "gournayenbray": [
         18
     ],
-    "sugg\u00e9ra": [
+    "sugg\u00e9rer": [
         18
     ],
     "dajouter": [
@@ -471,29 +400,24 @@
         856,
         870
     ],
-    "destin\u00e9": [
-        18,
-        130,
-        206,
-        582,
+    "destiner": [
         926
     ],
     "produire": [
-        18,
-        202,
-        602
+        898
     ],
-    "bondons": [
+    "bondon": [
         18
     ],
-    "reprenant": [
-        18
+    "reprendre": [
+        27,
+        837
     ],
     "recette": [
-        18
+        486
     ],
-    "appliqu\u00e9e": [
-        18
+    "appliquer": [
+        714
     ],
     "\u00e9tienne": [
         18
@@ -522,87 +446,62 @@
         926,
         949
     ],
-    "consommateurs": [
-        19,
-        160,
-        172,
-        947,
-        951,
-        973,
-        977
+    "consommateur": [
+        977,
+        980
     ],
-    "urbains": [
+    "urbain": [
         19
     ],
-    "avides": [
+    "avide": [
         19
-    ],
-    "fromages": [
-        37,
-        1057
     ],
     "notamment": [
         19,
         468,
         1103
     ],
-    "parisiens": [
+    "parisien": [
         19
     ],
-    "exp\u00e9diait": [
+    "exp\u00e9dier": [
         19
     ],
     "chaque": [
         240,
         596
     ],
-    "petits": [
-        19,
-        29,
-        56,
-        581,
-        581,
-        588
+    "petit": [
+        385
     ],
-    "enrichis": [
-        19
+    "enrichir": [
+        564
     ],
     "mandataire": [
         19,
         26
     ],
-    "halles": [
+    "halle": [
         19
     ],
-    "paris": [
-        19,
+    "pari": [
         499
     ],
-    "rencontra": [
-        20
+    "rencontrer": [
+        728
     ],
     "succ\u00e8s": [
         20
     ],
-    "\u00e9tait": [
-        20,
-        169,
-        582,
-        755,
-        859
+    "\u00eatre": [
+        1079
     ],
-    "premiers": [
-        24,
-        28,
-        928,
-        973,
-        977
-    ],
-    "petitsuisses": [
-        24
+    "premier": [
+        977,
+        1030
     ],
     "marque": [
-        339
+        407
     ],
     "gervais": [
         24,
@@ -612,25 +511,19 @@
         36,
         38
     ],
-    "commis": [
+    "commettre": [
         26
     ],
-    "nomm\u00e9": [
-        26
+    "nommer": [
+        1045
     ],
-    "charles": [
-        26,
-        32,
-        36,
-        1078,
+    "charle": [
         1079
     ],
     "flaira": [
         26
     ],
-    "bonne": [
-        26,
-        597,
+    "bon": [
         804
     ],
     "affaire": [
@@ -640,28 +533,6 @@
         27
     ],
     "production": [
-        27,
-        40,
-        51,
-        150,
-        151,
-        169,
-        467,
-        468,
-        550,
-        647,
-        723,
-        725,
-        775,
-        837,
-        880,
-        881,
-        882,
-        889,
-        926,
-        928,
-        928,
-        929,
         986,
         1030
     ],
@@ -672,7 +543,7 @@
         76,
         550
     ],
-    "suffisait": [
+    "suffire": [
         27
     ],
     "alimenter": [
@@ -691,28 +562,18 @@
         27,
         461
     ],
-    "reprit": [
-        27
-    ],
     "laiterie": [
-        27,
+        52,
         898
     ],
     "ferri\u00e8resenbray": [
         27
     ],
-    "employ\u00e9s": [
-        28,
-        570,
+    "employ\u00e9": [
         1038
     ],
     "fromagerie": [
-        28,
-        30,
-        249
-    ],
-    "furent": [
-        28
+        411
     ],
     "dabord": [
         28,
@@ -720,64 +581,41 @@
         532,
         986
     ],
-    "suisses": [
-        28
-    ],
-    "r\u00e9put\u00e9s": [
-        28,
+    "r\u00e9puter": [
         863
     ],
-    "excellents": [
+    "excellent": [
         28
     ],
-    "fromagers": [
-        28,
-        723,
-        1028
+    "fromager": [
+        1028,
+        1030
     ],
     "venir": [
-        28
+        861
     ],
     "sp\u00e9cialement": [
         28
     ],
-    "produits": [
-        29,
-        125,
-        125,
-        177,
-        200,
-        272,
-        464,
-        569,
-        657,
-        660,
-        813,
-        837,
-        853,
-        857,
-        860,
-        861,
-        879,
-        882,
+    "produit": [
         986
     ],
     "si\u00e8cle": [
         30
     ],
-    "devient": [
-        30
+    "devenir": [
+        1084
     ],
     "v\u00e9ritable": [
         30,
         543
     ],
     "usine": [
-        30,
+        687,
         996
     ],
-    "livrant": [
-        30
+    "livrer": [
+        582
     ],
     "fra\u00eecheur": [
         30
@@ -801,7 +639,7 @@
         599,
         749
     ],
-    "lignes": [
+    "ligne": [
         30
     ],
     "chemin": [
@@ -815,41 +653,27 @@
         803,
         890
     ],
-    "petitssuisses": [
-        31,
-        33,
+    "petitsssuisse": [
         52
     ],
     "transport": [
         31
     ],
-    "avaient": [
-        31,
-        130,
-        180,
-        184
+    "avoir": [
+        857
     ],
     "tendance": [
         31,
         534
     ],
     "coller": [
-        31
+        427
     ],
-    "autres": [
-        31,
-        122,
-        161,
-        184,
-        447,
-        464,
-        512,
-        536,
-        605,
-        813
+    "autre": [
+        741
     ],
-    "utilisa": [
-        32
+    "utiliser": [
+        1103
     ],
     "alors": [
         32,
@@ -865,19 +689,17 @@
     "concurrent": [
         32
     ],
-    "distribuait": [
-        32
+    "distribuer": [
+        32,
+        202
     ],
     "normandie": [
         32
     ],
-    "pesaient": [
+    "peser": [
         33
     ],
     "pi\u00e8ce": [
-        33
-    ],
-    "nommaient": [
         33
     ],
     "simplement": [
@@ -895,16 +717,11 @@
     "ceuxci": [
         33
     ],
-    "appel\u00e9s": [
-        33,
-        986
+    "appeler": [
+        1096
     ],
-    "doubles": [
+    "double": [
         33
-    ],
-    "avait": [
-        36,
-        563
     ],
     "aussi": [
         36,
@@ -925,16 +742,11 @@
         1090,
         1096
     ],
-    "compris": [
-        36,
-        721,
+    "comprendre": [
         857
     ],
     "limportance": [
         36
-    ],
-    "marques": [
-        407
     ],
     "identification": [
         36
@@ -942,29 +754,31 @@
     "bient\u00f4t": [
         37
     ],
-    "apparut": [
-        37
+    "appara\u00eetre": [
+        803,
+        850
     ],
     "l\u00e9tiquette": [
         37
     ],
-    "laquelle": [
-        38
+    "lequel": [
+        38,
+        171
     ],
     "lindustriel": [
         38
     ],
-    "revendiquait": [
-        38
+    "revendiquer": [
+        1030
     ],
     "mensong\u00e8rement": [
         38
     ],
-    "pr\u00e9tendant": [
-        38
+    "pr\u00e9tendre": [
+        434
     ],
-    "arrivaient": [
-        38
+    "arriver": [
+        680
     ],
     "directement": [
         38,
@@ -976,12 +790,10 @@
     "innova": [
         39
     ],
-    "utilisant": [
+    "emballage": [
         39,
-        180
-    ],
-    "emballages": [
-        39
+        293,
+        790
     ],
     "usage": [
         39
@@ -990,33 +802,25 @@
         39,
         453
     ],
-    "individuels": [
+    "individuel": [
         39
     ],
-    "\u00e9tant": [
-        39,
-        802,
-        823,
-        926,
-        1063
-    ],
-    "jug\u00e9s": [
-        39,
+    "juger": [
         859
     ],
-    "hygi\u00e9niques": [
+    "hygi\u00e9nique": [
         39
     ],
-    "acheta": [
+    "acheter": [
         40
     ],
-    "mariant": [
-        40
+    "marier": [
+        718
     ],
     "fille": [
         40
     ],
-    "racheta": [
+    "racheter": [
         40
     ],
     "soci\u00e9t\u00e9": [
@@ -1026,19 +830,17 @@
         354,
         357
     ],
-    "faisant": [
-        40,
-        698
+    "faire": [
+        711,
+        724,
+        783,
+        803,
+        804,
+        1041,
+        1088
     ],
-    "industrielle": [
-        40,
-        55,
-        268,
-        647,
-        686,
-        691,
-        775,
-        867
+    "industriel": [
+        990
     ],
     "entre": [
         43
@@ -1084,12 +886,7 @@
         1090
     ],
     "raison": [
-        43,
-        129,
-        130,
-        201,
-        450,
-        827
+        840
     ],
     "large": [
         43,
@@ -1099,17 +896,16 @@
     "m\u00e9diatisation": [
         43
     ],
-    "campagnes": [
-        43,
+    "campagne": [
         812
     ],
-    "publicit\u00e9s": [
+    "publicit\u00e9": [
         43
     ],
     "lint\u00e9r\u00eat": [
         44
     ],
-    "retomba": [
+    "retomber": [
         44
     ],
     "apr\u00e8s": [
@@ -1126,21 +922,10 @@
     "discret": [
         44
     ],
-    "laiti\u00e8re": [
-        48,
-        468,
-        720,
-        721,
-        996
+    "laitier": [
+        998
     ],
-    "cette": [
-        249,
-        422,
-        547,
-        560,
-        590,
-        597,
-        675,
+    "ce": [
         788
     ],
     "section": [
@@ -1153,19 +938,13 @@
         111,
         1040
     ],
-    "d\u00e9taill\u00e9e": [
-        49,
-        111,
+    "d\u00e9tailler": [
+        1094
+    ],
+    "incomplet": [
         1040
     ],
-    "incompl\u00e8te": [
-        49,
-        111,
-        1040
-    ],
-    "votre": [
-        50,
-        112,
+    "son": [
         1041
     ],
     "bienvenue": [
@@ -1179,44 +958,19 @@
         1041,
         1078
     ],
-    "faire": [
-        50,
-        112,
-        175,
-        476,
-        531,
-        724,
-        783,
-        803,
-        804,
-        1041,
-        1088
-    ],
-    "fabriqu\u00e9s": [
-        52,
-        68,
-        605
-    ],
     "industriellement": [
         52
     ],
-    "emball\u00e9s": [
-        52,
-        787,
-        789,
+    "emballer": [
         875
     ],
-    "existe": [
-        52,
+    "exister": [
         1078
     ],
-    "laiteries": [
-        52
+    "commercialiser": [
+        125
     ],
-    "commercialisent": [
-        52
-    ],
-    "bo\u00eetes": [
+    "bo\u00eete": [
         52
     ],
     "carton": [
@@ -1229,48 +983,19 @@
     "neufch\u00e2telenbray": [
         56
     ],
-    "produit": [
-        56,
-        168,
-        453,
-        659,
-        687,
-        691
+    "seul": [
+        649
     ],
-    "seule": [
-        56,
-        261
-    ],
-    "milliards": [
-        56,
-        1003,
-        1030,
-        1032,
-        1033,
-        1034,
+    "milliard": [
         1038
-    ],
-    "ann\u00e9e": [
-        56,
-        159,
-        848
     ],
     "achat": [
         59
     ],
-    "vaches": [
-        59,
-        130
-    ],
-    "\u00e9leveurs": [
-        59,
-        206,
-        208,
-        415,
-        422,
+    "\u00e9leveur": [
         476
     ],
-    "bovins": [
+    "bovin": [
         59
     ],
     "m\u00e9lange": [
@@ -1282,34 +1007,20 @@
     "empr\u00e9surage": [
         567
     ],
-    "laits": [
-        61,
-        133,
-        233,
-        535,
-        552,
-        552,
-        563,
-        563,
-        718,
-        722,
-        823
+    "lait": [
+        446
     ],
-    "collect\u00e9s": [
+    "collecter": [
         61
     ],
     "ajout": [
         63
     ],
-    "pasteuris\u00e9": [
-        63,
-        564,
-        654,
-        657,
-        718
-    ],
-    "obtenu": [
+    "pasteuriser": [
         63
+    ],
+    "obtenir": [
+        665
     ],
     "lissage": [
         65
@@ -1318,7 +1029,7 @@
         65,
         687
     ],
-    "prolong\u00e9": [
+    "prolonger": [
         65
     ],
     "\u00e9gouttage": [
@@ -1341,7 +1052,7 @@
         154
     ],
     "g\u00e9ographique": [
-        67,
+        68,
         154
     ],
     "vertu": [
@@ -1372,11 +1083,11 @@
         1015,
         1079
     ],
-    "fran\u00e7aise": [
-        68,
-        498,
-        860,
-        929
+    "fran\u00e7ais": [
+        476,
+        861,
+        1069,
+        1081
     ],
     "protection": [
         68,
@@ -1384,18 +1095,14 @@
         468,
         476
     ],
-    "indications": [
-        68,
+    "indication": [
         184
     ],
     "provenance": [
         68
     ],
-    "appellations": [
-        68,
-        509,
-        666,
-        840
+    "appellation": [
+        159
     ],
     "dorigine": [
         68,
@@ -1414,28 +1121,19 @@
         853,
         983
     ],
-    "dautres": [
-        68,
-        701,
-        853,
-        853,
+    "dautre": [
         1046
     ],
-    "d\u00e9nominations": [
-        68
-    ],
-    "g\u00e9ographiques": [
-        68
+    "d\u00e9nomination": [
+        68,
+        68,
+        158
     ],
     "lutilisation": [
         68
     ],
-    "d\u00e9nomination": [
-        68,
-        158
-    ],
-    "autoris\u00e9e": [
-        68
+    "autoriser": [
+        683
     ],
     "demeure": [
         69
@@ -1445,9 +1143,8 @@
         512,
         559
     ],
-    "interdite": [
-        69,
-        234
+    "interdire": [
+        470
     ],
     "point": [
         69,
@@ -1468,30 +1165,17 @@
     "payerne": [
         72
     ],
-    "appel\u00e9": [
-        72,
-        1096
-    ],
     "heine": [
         72
     ],
     "mozzarellas": [
         76
     ],
-    "artisanale": [
-        76,
-        585,
-        609
-    ],
-    "doivent": [
-        76,
-        275,
-        705,
+    "devoir": [
         750
     ],
-    "consomm\u00e9es": [
-        76,
-        750
+    "consommer": [
+        979
     ],
     "rapidement": [
         76,
@@ -1518,9 +1202,6 @@
         983,
         986
     ],
-    "consomm\u00e9": [
-        79
-    ],
     "italie": [
         79,
         110,
@@ -1532,26 +1213,18 @@
         958
     ],
     "pr\u00e9sent": [
-        79,
+        803,
         828
     ],
-    "tables": [
-        79,
-        244
+    "table": [
+        244,
+        699
     ],
-    "italiens": [
+    "italien": [
         79
     ],
-    "quelques": [
+    "quelque": [
         82
-    ],
-    "recettes": [
-        82,
-        297,
-        483,
-        485,
-        486,
-        486
     ],
     "cuisine": [
         82,
@@ -1561,13 +1234,6 @@
         484,
         486,
         979
-    ],
-    "italienne": [
-        82,
-        138,
-        888,
-        983,
-        983
     ],
     "bruschetta": [
         83,
@@ -1598,29 +1264,20 @@
     "nutrition": [
         102
     ],
-    "serait": [
-        103,
-        483,
-        812,
-        1079
-    ],
     "aliment": [
-        103,
-        531,
-        804,
-        829
+        1046
     ],
     "acidifiant": [
-        103
+        816
     ],
     "indice": [
         103
     ],
     "valeur": [
-        106
+        299
     ],
-    "nutritionnelle": [
-        106
+    "nutritionnel": [
+        823
     ],
     "kcalg": [
         106
@@ -1628,29 +1285,20 @@
     "g\u00e9ographie": [
         109
     ],
-    "consomme": [
-        113,
-        978
-    ],
-    "cuite": [
-        113,
-        117,
-        224,
-        609,
+    "cuit": [
         714
     ],
     "accompagnement": [
         113
     ],
-    "propri\u00e9t\u00e9s": [
+    "propri\u00e9t\u00e9": [
         114
     ],
-    "filantes": [
+    "filant": [
         114
     ],
     "ingr\u00e9dient": [
-        114,
-        979
+        983
     ],
     "incontournable": [
         114
@@ -1665,21 +1313,19 @@
         1063
     ],
     "\u00e9l\u00e9ment": [
-        117
+        664
     ],
     "essentiel": [
-        117,
-        829
+        830
     ],
-    "tomates": [
-        117,
+    "tomate": [
         117
     ],
     "habituellement": [
         117
     ],
-    "servie": [
-        117
+    "servir": [
+        1073
     ],
     "basilic": [
         117
@@ -1700,37 +1346,27 @@
     "balsamique": [
         117
     ],
-    "enl\u00e8ve": [
+    "enlever": [
         117
     ],
     "r\u00e9gion": [
-        120,
-        128,
-        461,
+        829,
         877
     ],
-    "naples": [
-        120,
-        128,
+    "naple": [
         130
     ],
-    "\u00e9levages": [
-        121,
-        121,
-        122
+    "\u00e9levage": [
+        122,
+        468
     ],
-    "bufflonnes": [
-        121,
-        121,
-        122
+    "bufflonne": [
+        122,
+        823
     ],
     "total": [
-        121,
+        860,
         883
-    ],
-    "plac\u00e9s": [
-        121,
-        122
     ],
     "s\u00e9questre": [
         121
@@ -1742,26 +1378,27 @@
         121
     ],
     "dioxine": [
-        121,
-        130,
+        861,
         861
     ],
-    "d\u00e9passant": [
-        121,
-        857
+    "d\u00e9passer": [
+        858,
+        859,
+        859
     ],
-    "normes": [
-        121,
+    "norme": [
         130
     ],
-    "admises": [
+    "admettre": [
         121
     ],
-    "semaines": [
-        122
+    "semaine": [
+        122,
+        792
     ],
-    "suivantes": [
-        122
+    "suivant": [
+        122,
+        823
     ],
     "surveillance": [
         122,
@@ -1769,53 +1406,41 @@
         849
     ],
     "compte": [
+        1046
+    ],
+    "doute": [
+        125
+    ],
+    "exprimer": [
         125,
-        1036
-    ],
-    "doutes": [
-        125
-    ],
-    "exprim\u00e9s": [
-        125
+        574
     ],
     "commission": [
         125,
         168,
         849
     ],
-    "europ\u00e9enne": [
+    "europ\u00e9en": [
         159
     ],
     "jeudi": [
         125
     ],
-    "mesures": [
+    "mesure": [
         125
     ],
-    "prises": [
-        125
+    "prendre": [
+        200,
+        472
     ],
-    "autorit\u00e9s": [
-        125,
+    "autorit\u00e9": [
         454
-    ],
-    "italiennes": [
-        125
     ],
     "garantir": [
         125
     ],
     "qualit\u00e9": [
-        125,
-        201,
-        202,
-        422,
-        703,
-        708,
-        849
-    ],
-    "commercialis\u00e9s": [
-        125
+        833
     ],
     "ministre": [
         125,
@@ -1831,10 +1456,10 @@
     "barnier": [
         125
     ],
-    "demand\u00e9": [
-        125
+    "demander": [
+        603
     ],
-    "professionnels": [
+    "professionnel": [
         125
     ],
     "consigner": [
@@ -1844,18 +1469,16 @@
         125,
         654
     ],
-    "concern\u00e9s": [
-        125,
-        464
+    "concerner": [
+        986
     ],
-    "lattente": [
+    "lattent": [
         125
     ],
-    "dinformations": [
+    "dinformation": [
         125
     ],
-    "compl\u00e9mentaires": [
-        125,
+    "compl\u00e9mentaire": [
         753
     ],
     "selon": [
@@ -1866,42 +1489,22 @@
         703,
         882
     ],
-    "certains": [
-        200,
-        571,
-        754,
-        771,
-        824,
+    "certain": [
         858
     ],
-    "auteurs": [
-        128,
-        859,
+    "auteur": [
         859
-    ],
-    "dioxines": [
-        128,
-        857,
-        859,
-        859,
-        861
-    ],
-    "seraient": [
-        128,
-        129
     ],
     "cons\u00e9quence": [
         128
     ],
-    "directe": [
-        128,
-        570,
+    "direct": [
         870
     ],
     "crise": [
         128
     ],
-    "d\u00e9chets": [
+    "d\u00e9chet": [
         128
     ],
     "campanie": [
@@ -1910,8 +1513,7 @@
     "gravement": [
         129
     ],
-    "contamin\u00e9s": [
-        129,
+    "contaminer": [
         857
     ],
     "lenfouissement": [
@@ -1926,19 +1528,20 @@
     "sauvage": [
         129
     ],
-    "montagnes": [
+    "montagne": [
+        129,
+        261
+    ],
+    "dordure": [
         129
     ],
-    "dordures": [
+    "contr\u00f4ler": [
+        776
+    ],
+    "ligue": [
         129
     ],
-    "contr\u00f4l\u00e9es": [
-        129
-    ],
-    "ligues": [
-        129
-    ],
-    "mafieuses": [
+    "mafieur": [
         129
     ],
     "caserte": [
@@ -1947,63 +1550,40 @@
     "mille": [
         130
     ],
-    "abattues": [
+    "abattre": [
         130
     ],
-    "fabriquer": [
-        130
-    ],
-    "sup\u00e9rieurs": [
-        130
-    ],
-    "europ\u00e9ennes": [
+    "sup\u00e9rieur": [
         130,
-        162,
-        180
+        813
     ],
-    "producteurs": [
-        352,
-        409,
+    "producteur": [
         446
     ],
     "gouvernement": [
         133
     ],
-    "italien": [
-        133,
-        512,
-        687
-    ],
-    "labellis\u00e9e": [
-        133
-    ],
-    "contamin\u00e9e": [
+    "labelliser": [
         133
     ],
     "malte": [
         136
     ],
-    "maltaise": [
+    "maltais": [
+        137,
         137
     ],
     "larchipel": [
         137
     ],
-    "maltais": [
-        137
-    ],
     "pr\u00e9sentation": [
         138
     ],
-    "s\u00e8che": [
+    "sec": [
         138
     ],
     "monde": [
         923
-    ],
-    "produite": [
-        143,
-        149
     ],
     "dehors": [
         143,
@@ -2031,19 +1611,13 @@
         606,
         888
     ],
-    "n\u00e9tant": [
-        143,
+    "n\u00e9ter": [
         272
     ],
-    "prot\u00e9g\u00e9e": [
-        143,
-        158,
-        159,
-        162,
-        275,
+    "prot\u00e9ger": [
         888
     ],
-    "\u00e9tatsmembres": [
+    "\u00e9tatsmembre": [
         143
     ],
     "union": [
@@ -2079,28 +1653,7 @@
         1025,
         1025
     ],
-    "\u00e9tatsunis": [
-        144,
-        150,
-        450,
-        461,
-        464,
-        763,
-        883,
-        903,
-        903,
-        925,
-        967,
-        967,
-        981,
-        1010,
-        1010,
-        1016,
-        1016,
-        1020,
-        1020,
-        1026,
-        1026,
+    "\u00e9tatsuni": [
         1081
     ],
     "bruce": [
@@ -2109,17 +1662,16 @@
     "babcock": [
         148
     ],
-    "souligne": [
+    "souligner": [
         148
     ],
-    "am\u00e9ricains": [
-        148,
-        983,
+    "am\u00e9ricain": [
         1081
     ],
-    "d\u00e9signe": [
-        148,
-        889
+    "d\u00e9signer": [
+        889,
+        1090,
+        1090
     ],
     "granuleux": [
         148
@@ -2132,25 +1684,11 @@
         791,
         820
     ],
-    "utilis\u00e9": [
-        148,
-        434,
-        512,
-        823,
-        889,
-        979,
-        1103
-    ],
-    "plats": [
-        148,
+    "plat": [
         1063
     ],
-    "grecs": [
-        148,
-        161
-    ],
-    "am\u00e9ricaine": [
-        149
+    "grec": [
+        172
     ],
     "majoritairement": [
         149,
@@ -2159,17 +1697,10 @@
     "wisconsin": [
         149
     ],
-    "annuelle": [
-        150,
-        151,
+    "annuel": [
         881
     ],
-    "tonnes": [
-        150,
-        151,
-        691,
-        880,
-        880,
+    "tonne": [
         902
     ],
     "s\u00e9l\u00e8ve": [
@@ -2182,8 +1713,8 @@
         154,
         199
     ],
-    "examin\u00e9e": [
-        154
+    "examiner": [
+        225
     ],
     "cadre": [
         154,
@@ -2201,10 +1732,11 @@
         194,
         446
     ],
-    "accords": [
-        154
+    "accord": [
+        154,
+        464
     ],
-    "trips": [
+    "trip": [
         154
     ],
     "entrade": [
@@ -2213,8 +1745,7 @@
     "related": [
         154
     ],
-    "aspects": [
-        154,
+    "aspect": [
         800
     ],
     "intellectual": [
@@ -2223,7 +1754,7 @@
     "property": [
         154
     ],
-    "cherche": [
+    "chercher": [
         154
     ],
     "mettre": [
@@ -2251,8 +1782,8 @@
         457,
         500
     ],
-    "cr\u00e9\u00e9e": [
-        158
+    "cr\u00e9er": [
+        592
     ],
     "gr\u00e8ce": [
         158,
@@ -2268,27 +1799,6 @@
         159,
         457
     ],
-    "grecque": [
-        159,
-        160,
-        172
-    ],
-    "demande": [
-        159,
-        160,
-        201,
-        471,
-        560,
-        594,
-        597,
-        603
-    ],
-    "devienne": [
-        159
-    ],
-    "appellation": [
-        159
-    ],
     "conform\u00e9ment": [
         159
     ],
@@ -2301,37 +1811,21 @@
         177,
         183
     ],
-    "europ\u00e9en": [
-        159,
-        163,
-        164,
-        168,
-        183
-    ],
-    "adopt\u00e9": [
+    "adopter": [
         159
     ],
     "communaut\u00e9": [
         159
     ],
-    "charg\u00e9e": [
-        160,
-        169
+    "charger": [
+        169,
+        601
     ],
     "dexaminer": [
         160
     ],
-    "\u00e9tablit": [
-        160,
-        160
-    ],
-    "devenu": [
-        160,
-        163,
-        172,
-        481,
-        505,
-        1079
+    "\u00e9tablir": [
+        163
     ],
     "g\u00e9n\u00e9rique": [
         160,
@@ -2343,12 +1837,8 @@
     "sondage": [
         160
     ],
-    "associ\u00e9": [
+    "associer": [
         160
-    ],
-    "europ\u00e9ens": [
-        160,
-        973
     ],
     "origine": [
         160,
@@ -2356,8 +1846,7 @@
         495,
         666
     ],
-    "d\u00e9cide": [
-        161,
+    "d\u00e9cider": [
         164
     ],
     "daccorder": [
@@ -2395,57 +1884,43 @@
         1019,
         1027
     ],
-    "produisent": [
+    "quantit\u00e9": [
         162,
-        898
+        659,
+        763,
+        804,
+        927
     ],
-    "quantit\u00e9s": [
-        162
+    "important": [
+        860,
+        980
     ],
-    "importantes": [
-        162
-    ],
-    "saisissent": [
+    "saisir": [
         162
     ],
     "justice": [
         162,
         165
     ],
-    "communaut\u00e9s": [
-        162,
-        180
-    ],
     "annuler": [
         162,
         175
     ],
-    "\u00e9tablie": [
-        162
-    ],
-    "arguments": [
+    "argument": [
         163
     ],
-    "plaignants": [
+    "plaignant": [
         163
     ],
     "satisfait": [
         163
     ],
-    "conditions": [
-        163,
-        164,
-        468,
-        468,
+    "condition": [
         671
     ],
-    "n\u00e9cessaires": [
-        163,
-        202,
-        696
-    ],
-    "\u00e9tablies": [
-        163
+    "n\u00e9cessaire": [
+        696,
+        777
     ],
     "dannuler": [
         164
@@ -2459,10 +1934,7 @@
     "suffisamment": [
         164
     ],
-    "examin\u00e9": [
-        164
-    ],
-    "requises": [
+    "requis": [
         164
     ],
     "d\u00e9cision": [
@@ -2471,7 +1943,7 @@
         176,
         450
     ],
-    "redevient": [
+    "redevenir": [
         165
     ],
     "libre": [
@@ -2499,8 +1971,7 @@
     "valable": [
         165
     ],
-    "ordonne": [
-        168,
+    "ordonner": [
         476
     ],
     "louverture": [
@@ -2523,7 +1994,7 @@
         168,
         169
     ],
-    "aboutit": [
+    "aboutir": [
         168
     ],
     "octobre": [
@@ -2544,39 +2015,31 @@
     "dossier": [
         169
     ],
-    "rassembl\u00e9": [
-        169,
+    "rassembler": [
         687
     ],
-    "toutes": [
-        169
+    "tout": [
+        534
     ],
-    "donn\u00e9es": [
-        169,
+    "donn\u00e9e": [
         837
     ],
     "consommation": [
         285
     ],
     "d\u00e9terminer": [
-        169,
+        558,
         711
     ],
-    "recherches": [
-        170,
-        422
+    "recherche": [
+        422,
+        837
     ],
-    "montr\u00e9": [
-        170,
-        434,
-        857
+    "montrer": [
+        1051
     ],
     "n\u00e9tait": [
         170
-    ],
-    "utilis\u00e9e": [
-        170,
-        602
     ],
     "commun": [
         170,
@@ -2588,12 +2051,7 @@
         170
     ],
     "blanc": [
-        170,
-        280,
-        764,
-        973,
-        973,
-        1090
+        365
     ],
     "saumure": [
         170,
@@ -2603,14 +2061,11 @@
         683,
         754
     ],
-    "lequel": [
+    "op\u00e9rateur": [
         171
     ],
-    "op\u00e9rateurs": [
-        171
-    ],
-    "\u00e9voquent": [
-        171
+    "\u00e9voquer": [
+        666
     ],
     "sefforcent": [
         171
@@ -2621,13 +2076,8 @@
     "confusion": [
         171
     ],
-    "quils": [
-        171,
+    "quil": [
         703
-    ],
-    "utilisent": [
-        171,
-        650
     ],
     "d\u00e9signation": [
         171,
@@ -2639,37 +2089,38 @@
     "perception": [
         172
     ],
-    "\u00e9voque": [
-        172
+    "partie": [
+        175,
+        240,
+        546,
+        550,
+        787,
+        820,
+        999,
+        1044
     ],
-    "parties": [
+    "requ\u00e9rante": [
         175
     ],
-    "requ\u00e9rantes": [
-        175
-    ],
-    "tentent": [
+    "tenter": [
         175
     ],
     "l\u00e9pilogue": [
         176
     ],
-    "d\u00e9roule": [
+    "d\u00e9rouler": [
         176
     ],
     "lorsquest": [
         176
     ],
-    "confirm\u00e9e": [
-        176
-    ],
-    "seuls": [
-        649
+    "confirmer": [
+        860
     ],
     "droit": [
-        177
+        464
     ],
-    "continentale": [
+    "continental": [
         177
     ],
     "d\u00e9partement": [
@@ -2678,29 +2129,26 @@
     "lesbos": [
         177
     ],
-    "servant": [
-        177
-    ],
     "l\u00e9laboration": [
         177,
         703
     ],
     "provenir": [
-        177,
-        193
+        495
     ],
-    "ch\u00e8vres": [
-        177,
-        792
+    "ch\u00e8vre": [
+        792,
+        829,
+        1073
     ],
-    "races": [
+    "race": [
         177
     ],
-    "locales": [
-        177
+    "local": [
+        297
     ],
-    "\u00e9lev\u00e9es": [
-        177
+    "\u00e9lever": [
+        982
     ],
     "lalimentation": [
         177,
@@ -2710,7 +2158,7 @@
         867
     ],
     "fonder": [
-        177
+        417
     ],
     "imp\u00e9rativement": [
         177
@@ -2721,13 +2169,7 @@
         820,
         837
     ],
-    "pr\u00e9sente": [
-        177,
-        205,
-        469,
-        711
-    ],
-    "aires": [
+    "aire": [
         177
     ],
     "p\u00e2turage": [
@@ -2735,31 +2177,10 @@
         195,
         470
     ],
-    "r\u00e9gions": [
-        177,
-        754,
-        758,
-        829
-    ],
-    "\u00e9ligibles": [
+    "\u00e9ligible": [
         177
     ],
-    "industriels": [
-        990
-    ],
-    "laitiers": [
-        180,
-        569,
-        657,
-        813,
-        860,
-        861,
-        882
-    ],
-    "membres": [
-        180,
-        183,
-        184,
+    "membre": [
         184
     ],
     "terme": [
@@ -2774,14 +2195,12 @@
         858
     ],
     "\u00e9liminer": [
-        180,
-        234,
-        558
+        869
     ],
     "\u00e9tiquetage": [
         180
     ],
-    "nayant": [
+    "na\u00eetre": [
         183
     ],
     "quune": [
@@ -2797,14 +2216,14 @@
         597,
         791
     ],
-    "consid\u00e8rent": [
-        183
+    "consid\u00e9rer": [
+        1069
     ],
     "encore": [
         183,
         829
     ],
-    "\u00e9tats": [
+    "\u00e9tat": [
         184
     ],
     "toutefois": [
@@ -2831,7 +2250,7 @@
     "central": [
         186
     ],
-    "\u00e9claire": [
+    "\u00e9clairer": [
         186
     ],
     "sc\u00e8ne": [
@@ -2841,9 +2260,7 @@
         188
     ],
     "traite": [
-        188,
-        210,
-        217,
+        238,
         721
     ],
     "laveyron": [
@@ -2858,17 +2275,15 @@
         193,
         199
     ],
-    "fra\u00eeche": [
-        193,
-        293,
-        546
+    "frais": [
+        834,
+        861,
+        1086
     ],
     "fourrage": [
-        193,
-        199,
-        199
+        202
     ],
-    "c\u00e9r\u00e9ales": [
+    "c\u00e9r\u00e9ale": [
         193
     ],
     "moins": [
@@ -2902,7 +2317,7 @@
     "relatif": [
         194
     ],
-    "octroy\u00e9e": [
+    "octroyer": [
         194
     ],
     "force": [
@@ -2949,8 +2364,7 @@
         195,
         602
     ],
-    "verte": [
-        195,
+    "vert": [
         282
     ],
     "temps": [
@@ -2962,14 +2376,8 @@
         660,
         683
     ],
-    "permet": [
-        195,
-        271,
-        272,
-        576,
-        585,
-        688,
-        708
+    "permettre": [
+        725
     ],
     "l\u00e9levage": [
         196
@@ -2977,23 +2385,19 @@
     "stabulation": [
         196
     ],
-    "permanente": [
+    "permanent": [
         196
     ],
-    "interdits": [
-        196
-    ],
-    "discussions": [
+    "discussion": [
         199
     ],
-    "entam\u00e9es": [
+    "entamer": [
         199
     ],
-    "repr\u00e9sentants": [
-        199,
-        416,
-        418,
-        421
+    "repr\u00e9sentant": [
+        421,
+        426,
+        1030
     ],
     "d\u00e9finition": [
         199
@@ -3001,23 +2405,20 @@
     "herbe": [
         199
     ],
-    "s\u00e9ch\u00e9e": [
-        199
+    "s\u00e9cher": [
+        754
     ],
-    "ferment\u00e9": [
-        199
+    "fermenter": [
+        869
     ],
     "ensilage": [
         199
     ],
-    "enrubann\u00e9": [
-        199
+    "enrubanner": [
+        202
     ],
     "semiensilage": [
         199
-    ],
-    "prennent": [
-        200
     ],
     "laguiole": [
         200
@@ -3026,22 +2427,14 @@
         200
     ],
     "donner": [
-        200,
-        294,
-        427,
+        547,
         658,
         1088
     ],
-    "ferment\u00e9s": [
-        200,
-        202,
-        869
-    ],
-    "appuient": [
+    "appuyer": [
         201
     ],
-    "meilleure": [
-        201,
+    "meilleur": [
         782
     ],
     "microbiologique": [
@@ -3049,13 +2442,10 @@
         844,
         849
     ],
-    "investissements": [
+    "investissement": [
         202
     ],
     "supprimer": [
-        202
-    ],
-    "fourrages": [
         202
     ],
     "h\u00e9siter": [
@@ -3067,27 +2457,14 @@
         563,
         896
     ],
-    "continuent": [
+    "continuer": [
         202
     ],
-    "distribuer": [
-        202
-    ],
-    "aliments": [
-        202,
-        1046
-    ],
-    "ensil\u00e9s": [
-        202
-    ],
-    "enrubann\u00e9s": [
+    "ensil\u00e9": [
         202
     ],
     "photographie": [
-        205,
-        223,
-        256,
-        441
+        346
     ],
     "couleur": [
         205,
@@ -3099,8 +2476,8 @@
         282,
         441
     ],
-    "pr\u00e9cis\u00e9": [
-        206
+    "pr\u00e9ciser": [
+        262
     ],
     "lemballage": [
         206,
@@ -3108,16 +2485,14 @@
         275,
         775
     ],
-    "familiale": [
-        206,
+    "familial": [
         208
     ],
-    "b\u00e9n\u00e9ficiaires": [
+    "b\u00e9n\u00e9ficiaire": [
         206
     ],
-    "vendu": [
-        206,
-        218
+    "vendre": [
+        666
     ],
     "roquefort": [
         208,
@@ -3129,19 +2504,14 @@
         453,
         468
     ],
-    "stock\u00e9": [
-        211,
+    "stocker": [
         213
     ],
     "ramassage": [
         212
     ],
-    "pr\u00e9l\u00e8ve": [
-        212
-    ],
-    "traites": [
-        212,
-        238
+    "pr\u00e9lever": [
+        550
     ],
     "journ\u00e9e": [
         212
@@ -3153,22 +2523,14 @@
         213,
         777
     ],
-    "\u00e9cr\u00e9m\u00e9": [
-        214,
-        657,
+    "\u00e9cr\u00e9mer": [
         823
     ],
     "acide": [
-        214,
-        309,
-        533,
-        533,
-        572,
-        658,
-        670,
+        808,
         869
     ],
-    "commence": [
+    "commencer": [
         217
     ],
     "lagnelage": [
@@ -3178,12 +2540,9 @@
         218,
         476
     ],
-    "s\u00e9par\u00e9": [
-        218
-    ],
-    "\u00e9lev\u00e9": [
-        218,
-        808
+    "s\u00e9parer": [
+        569,
+        577
     ],
     "poudre": [
         218,
@@ -3196,76 +2555,54 @@
         219,
         272
     ],
-    "pains": [
-        222,
+    "pain": [
         338
     ],
-    "repr\u00e9sente": [
-        223,
-        977,
-        983
+    "repr\u00e9senter": [
+        983,
+        1103
     ],
-    "vout\u00e9e": [
+    "vo\u00fbter": [
         223
     ],
     "pierre": [
         481,
         482
     ],
-    "longue": [
-        224,
-        261,
+    "long": [
         594
     ],
-    "table": [
-        224,
-        699
-    ],
-    "tr\u00e9teaux": [
+    "tr\u00e9teau": [
         224
     ],
     "porte": [
         224,
         556
     ],
-    "frais": [
-        224,
-        782,
-        784,
-        797,
-        816,
-        861,
-        1086
-    ],
-    "m\u00e9talliques": [
+    "m\u00e9tallique": [
         224
     ],
     "terre": [
         224
     ],
-    "visiteurs": [
+    "visiteur": [
         225
     ],
-    "examinent": [
-        225
-    ],
-    "ustensiles": [
-        225,
+    "ustensile": [
         578
     ],
     "aluminium": [
         225,
         293
     ],
-    "bidons": [
+    "bidon": [
         225
     ],
-    "marmites": [
+    "marmite": [
         225
     ],
     "grand": [
-        225,
-        297
+        897
     ],
     "volume": [
         225
@@ -3273,8 +2610,10 @@
     "mus\u00e9e": [
         227
     ],
-    "traditions": [
-        227
+    "tradition": [
+        227,
+        649,
+        650
     ],
     "cornus": [
         227
@@ -3282,9 +2621,7 @@
     "reconstitution": [
         228
     ],
-    "fourmes": [
-        228,
-        338,
+    "fourme": [
         581
     ],
     "l\u00e9gouttage": [
@@ -3303,43 +2640,29 @@
     "atelier": [
         230
     ],
-    "provient": [
-        233,
-        495
-    ],
-    "normalis\u00e9s": [
-        233
-    ],
-    "prot\u00e9ine": [
-        233
+    "normaliser": [
+        509
     ],
     "mati\u00e8re": [
-        233,
+        654,
         858
     ],
-    "grasse": [
-        233,
+    "gras": [
         858
     ],
-    "m\u00e9lang\u00e9s": [
+    "m\u00e9langer": [
         233
     ],
-    "provenant": [
-        233
-    ],
-    "diff\u00e9rents": [
-        233,
-        603,
+    "diff\u00e9rent": [
         897
     ],
-    "\u00e9leveursproducteurs": [
+    "\u00e9leveursproducteur": [
         233
     ],
-    "filtr\u00e9": [
-        234,
+    "filtrer": [
         654
     ],
-    "particules": [
+    "particule": [
         234
     ],
     "dimpuret\u00e9": [
@@ -3349,7 +2672,7 @@
         234,
         718
     ],
-    "\u00f4terait": [
+    "\u00f4ter": [
         234
     ],
     "r\u00e9chauff\u00e9": [
@@ -3360,44 +2683,39 @@
         553
     ],
     "dernier": [
-        238
+        789
     ],
-    "pratiqu\u00e9": [
-        238
+    "pratiquer": [
+        763
     ],
-    "stocks": [
-        238,
+    "stock": [
         272
     ],
-    "issus": [
-        238,
+    "issu": [
         787
     ],
     "stade": [
         239,
         565
     ],
-    "ensemenc\u00e9": [
-        239,
-        669
-    ],
-    "ferments": [
-        239,
+    "ensemencer": [
+        669,
         722
     ],
-    "lactiques": [
-        239,
-        565,
-        713,
-        737
+    "ferment": [
+        722
     ],
-    "gazog\u00e8nes": [
+    "lactique": [
+        737,
+        869
+    ],
+    "gazog\u00e8ne": [
         239
     ],
     "leuconostoc": [
         737
     ],
-    "mesentero\u00efdes": [
+    "mesentero\u00efde": [
         239
     ],
     "surtout": [
@@ -3407,15 +2725,11 @@
         820,
         828
     ],
-    "spores": [
+    "spore": [
         239
     ],
     "champignon": [
-        239,
-        434,
-        435,
-        590,
-        592
+        731
     ],
     "microscopique": [
         239
@@ -3436,22 +2750,7 @@
         434,
         590
     ],
-    "avoir": [
-        240
-    ],
-    "petite": [
-        385
-    ],
-    "partie": [
-        240,
-        546,
-        550,
-        787,
-        820,
-        999,
-        1044
-    ],
-    "r\u00e9serv\u00e9e": [
+    "r\u00e9server": [
         240
     ],
     "conservation": [
@@ -3459,13 +2758,11 @@
         781
     ],
     "souche": [
-        240,
+        713,
         1090
     ],
     "moisissure": [
-        240,
-        248,
-        256
+        734
     ],
     "microclimat": [
         240
@@ -3473,11 +2770,8 @@
     "favorable": [
         240
     ],
-    "coagul\u00e9": [
-        243
-    ],
-    "d\u00e9coup\u00e9": [
-        243
+    "d\u00e9couper": [
+        275
     ],
     "d\u00e9gouttage": [
         244,
@@ -3495,16 +2789,11 @@
         563,
         570
     ],
-    "effectu\u00e9": [
-        245
+    "effectuer": [
+        714
     ],
-    "fourme": [
-        245,
-        377,
-        509
-    ],
-    "sal\u00e9e": [
-        245
+    "sal\u00e9": [
+        754
     ],
     "avant": [
         248
@@ -3522,13 +2811,13 @@
         771,
         823
     ],
-    "piqu\u00e9": [
+    "piquer": [
         248
     ],
-    "transperc\u00e9": [
-        248
+    "transpercer": [
+        590
     ],
-    "aiguilles": [
+    "aiguille": [
         248
     ],
     "a\u00e9rer": [
@@ -3540,14 +2829,10 @@
         749
     ],
     "favoriser": [
-        248
+        718
     ],
     "op\u00e9ration": [
-        249,
-        578,
-        585,
-        590,
-        597
+        647
     ],
     "maximum": [
         249
@@ -3555,31 +2840,17 @@
     "exception": [
         249
     ],
-    "faite": [
-        249,
-        711
-    ],
-    "f\u00e9ri\u00e9s": [
+    "f\u00e9ri\u00e9": [
         249
     ],
     "morceau": [
         254
     ],
-    "affin\u00e9": [
-        254,
+    "affiner": [
         268
-    ],
-    "montre": [
-        256,
-        442,
-        711
     ],
     "grisbleu": [
         256
-    ],
-    "aspect": [
-        257,
-        561
     ],
     "velout\u00e9": [
         257
@@ -3611,7 +2882,7 @@
         659,
         687
     ],
-    "circonscrits": [
+    "circonscrire": [
         261
     ],
     "commune": [
@@ -3620,20 +2891,17 @@
     "roquefortsursoulzon": [
         261
     ],
-    "limit\u00e9s": [
-        261
+    "limiter": [
+        563
     ],
     "\u00e9boulis": [
-        261
-    ],
-    "montagne": [
         261
     ],
     "combalou": [
         261
     ],
     "effet": [
-        262,
+        434,
         808,
         882
     ],
@@ -3643,91 +2911,60 @@
     "falaise": [
         262
     ],
-    "cavit\u00e9s": [
+    "cavit\u00e9": [
         262
     ],
-    "naturelles": [
-        262
+    "naturel": [
+        550,
+        696,
+        778
     ],
     "lhygrom\u00e9trie": [
-        262
-    ],
-    "pr\u00e9cise": [
         262
     ],
     "ventilation": [
         263
     ],
-    "naturelle": [
-        263,
-        550
+    "assurer": [
+        526
     ],
-    "assur\u00e9e": [
-        263
-    ],
-    "fissures": [
+    "fissure": [
         263
     ],
     "roche": [
         263
     ],
-    "fleurines": [
+    "fleurine": [
         263
     ],
-    "caract\u00e9ristiques": [
-        264,
+    "caract\u00e9ristique": [
         563
-    ],
-    "donnent": [
-        264
     ],
     "particularit\u00e9": [
         264,
         602
     ],
-    "caves": [
-        351,
-        354,
-        359,
-        364,
+    "cave": [
         408
     ],
     "rester": [
-        267,
-        476
+        813
     ],
-    "entreprises": [
-        268,
-        998
+    "entreprise": [
+        998,
+        1038
     ],
-    "lattes": [
+    "latte": [
         268
     ],
     "m\u00e9thode": [
-        268,
-        268,
-        541,
-        571,
-        585,
-        675,
-        746,
-        747,
-        758,
-        788
+        753
     ],
-    "traditionnelle": [
-        268,
-        541,
-        686,
-        747
+    "traditionnel": [
+        869
     ],
-    "caissettes": [
+    "caissette": [
         268
-    ],
-    "n\u00e9cessaire": [
-        268,
-        437,
-        777
     ],
     "ensuite": [
         269,
@@ -3735,14 +2972,11 @@
         533,
         660
     ],
-    "envelopp\u00e9": [
-        269,
+    "envelopper": [
         759
     ],
     "feuille": [
-        269,
-        758,
-        758
+        881
     ],
     "d\u00e9tain": [
         269
@@ -3750,8 +2984,8 @@
     "leader": [
         269
     ],
-    "remplacent": [
-        269
+    "remplacer": [
+        429
     ],
     "l\u00e9tain": [
         269
@@ -3759,8 +2993,7 @@
     "aluminiumplastiquer\u00e9f": [
         269
     ],
-    "souhait\u00e9e": [
-        270,
+    "souhaiter": [
         703
     ],
     "cabani\u00e8r": [
@@ -3769,20 +3002,16 @@
     "caveti\u00e8re": [
         270
     ],
-    "grandes": [
-        270,
-        998
-    ],
-    "maisons": [
+    "maison": [
         270
     ],
     "machine": [
         270
     ],
-    "sp\u00e9ciale": [
-        270
+    "sp\u00e9cial": [
+        687
     ],
-    "poursuit": [
+    "poursuivre": [
         271
     ],
     "affinage": [
@@ -3794,10 +3023,6 @@
     ],
     "minimum": [
         271
-    ],
-    "contr\u00f4l\u00e9e": [
-        271,
-        776
     ],
     "r\u00e9guler": [
         271
@@ -3829,22 +3054,17 @@
         272,
         687
     ],
-    "entiers": [
-        275
-    ],
-    "d\u00e9coup\u00e9s": [
+    "entier": [
         275
     ],
     "porter": [
-        275,
-        469
+        857
     ],
     "mention": [
         275
     ],
-    "persill\u00e9e": [
-        279,
-        281
+    "persiller": [
+        749
     ],
     "poids": [
         279,
@@ -3855,8 +3075,8 @@
         829,
         1085
     ],
-    "pr\u00e9sentant": [
-        279
+    "pr\u00e9senter": [
+        816
     ],
     "forme": [
         279,
@@ -3885,20 +3105,17 @@
         782,
         973
     ],
-    "moisissures": [
-        734
-    ],
     "grise": [
         282
     ],
-    "bleue": [
-        282
+    "bleu": [
+        749
     ],
     "entrec\u00f4te": [
         287
     ],
-    "offre": [
-        289
+    "offrir": [
+        486
     ],
     "structure": [
         289
@@ -3910,21 +3127,19 @@
         289,
         546
     ],
-    "id\u00e9ale": [
+    "id\u00e9al": [
         290
     ],
-    "s\u00e9tale": [
+    "s\u00e9tal": [
         290
     ],
     "davril": [
         290
     ],
-    "conserv\u00e9": [
-        293
-    ],
-    "emballage": [
-        293,
-        790
+    "conserver": [
+        758,
+        782,
+        792
     ],
     "papier": [
         293,
@@ -3941,17 +3156,13 @@
         783,
         784
     ],
-    "permettre": [
-        294
-    ],
     "potentiel": [
-        294
+        853
     ],
     "organoleptique": [
-        294,
-        783
+        790
     ],
-    "conseill\u00e9": [
+    "conseiller": [
         294
     ],
     "chambrer": [
@@ -3965,20 +3176,14 @@
         895,
         983
     ],
-    "heure": [
-        294
-    ],
     "\u00e9viter": [
         294,
         783
     ],
-    "brusques": [
+    "brusque": [
         294
     ],
-    "changements": [
-        294
-    ],
-    "temp\u00e9ratures": [
+    "changement": [
         294
     ],
     "depuis": [
@@ -3988,38 +3193,26 @@
     "vingtaine": [
         297
     ],
-    "dann\u00e9es": [
+    "dann\u00e9e": [
         297
     ],
-    "locale": [
+    "gratifier": [
         297
     ],
-    "gratifi\u00e9e": [
-        297
+    "aller": [
+        297,
+        486
     ],
-    "allant": [
-        297
-    ],
-    "salades": [
-        297
-    ],
-    "sauces": [
+    "sauce": [
         297
     ],
     "viande": [
-        297,
-        450,
-        464,
-        471
+        853
     ],
-    "passant": [
-        297,
-        484
+    "passer": [
+        973
     ],
-    "p\u00e2tisseries": [
-        297
-    ],
-    "sal\u00e9es": [
+    "p\u00e2tisserie": [
         297
     ],
     "tourte": [
@@ -4028,39 +3221,22 @@
     "quiche": [
         297
     ],
-    "feuillet\u00e9": [
+    "feuilleter": [
         297
     ],
-    "valeurs": [
+    "moyenne": [
         299
     ],
-    "nutritionnelles": [
-        299,
-        812,
-        823
-    ],
-    "moyennes": [
-        299
-    ],
-    "lipides": [
-        302,
+    "lipide": [
         804
     ],
-    "acides": [
-        303,
-        304,
-        305,
-        803,
+    "saturer": [
         808
     ],
-    "satur\u00e9s": [
-        303,
-        808
-    ],
-    "monoinsatur\u00e9s": [
+    "monoinsatur\u00e9": [
         304
     ],
-    "polyinsatur\u00e9s": [
+    "polyinsatur\u00e9": [
         305
     ],
     "cholest\u00e9rol": [
@@ -4097,28 +3273,21 @@
         313
     ],
     "vitamine": [
-        315,
-        316,
-        319,
-        320,
-        321,
-        324,
-        325,
-        328,
-        329,
-        334,
+        805,
         813
     ],
     "activit\u00e9": [
-        317,
+        998,
         999,
         1030
     ],
     "vitaminique": [
         317
     ],
-    "\u00e9quivalents": [
-        317
+    "\u00e9quivalent": [
+        317,
+        533,
+        813
     ],
     "tocoph\u00e9rol": [
         317
@@ -4141,26 +3310,26 @@
     "carot\u00e8ne": [
         331
     ],
-    "fibres": [
+    "fibre": [
         332
     ],
-    "alimentaires": [
-        332
+    "alimentaire": [
+        332,
+        582
     ],
-    "glucides": [
+    "glucide": [
         333
     ],
     "\u00e9nergie": [
         335,
         336
     ],
-    "fabricants": [
+    "fabricant": [
         337
     ],
-    "commerciales": [
-        337,
-        338,
-        509
+    "commercial": [
+        509,
+        711
     ],
     "liste": [
         338,
@@ -4173,50 +3342,31 @@
         340
     ],
     "transformateur": [
-        341
+        422
     ],
     "proc\u00e9d\u00e9": [
         343
     ],
-    "dobtentionvolumes": [
+    "dobtentionvolume": [
         343
     ],
     "transformation": [
         541,
         747
     ],
-    "tonne": [
-        344
-    ],
-    "photographies": [
-        346
-    ],
-    "lactalis": [
-        1030,
-        1030,
+    "lactali": [
         1033
     ],
-    "r\u00e9unis": [
-        352,
+    "r\u00e9unir": [
         409
     ],
-    "fond\u00e9e": [
-        354,
-        415,
-        417
-    ],
-    "industriel": [
-        354,
-        688,
-        979,
-        991
-    ],
-    "chiffres": [
-        355,
-        373,
-        377,
-        395,
-        406
+    "chiffre": [
+        406,
+        998,
+        1032,
+        1033,
+        1034,
+        1038
     ],
     "formatge": [
         355,
@@ -4225,8 +3375,7 @@
     "abeille": [
         358
     ],
-    "baragnaudes": [
-        359,
+    "baragnaude": [
         361
     ],
     "d\u00e9licatesse": [
@@ -4245,14 +3394,10 @@
     "grimal": [
         363
     ],
-    "templiers": [
+    "templier": [
         364
     ],
     "blanchefourme": [
-        365
-    ],
-    "blanche": [
-        365,
         365
     ],
     "roquebellefourme": [
@@ -4280,13 +3425,8 @@
     "taste": [
         371
     ],
-    "noirfromageries": [
+    "noirfromagerie": [
         371
-    ],
-    "fromageries": [
-        387,
-        410,
-        411
     ],
     "papillonindustriel": [
         372
@@ -4309,7 +3449,7 @@
         383,
         411
     ],
-    "coulet\u00e9tablissements": [
+    "coulet\u00e9tablissement": [
         379
     ],
     "coulet": [
@@ -4320,8 +3460,7 @@
         383,
         411
     ],
-    "\u00e9tablissements": [
-        380,
+    "\u00e9tablissement": [
         405
     ],
     "saindustriel": [
@@ -4343,45 +3482,34 @@
     "pastourellecoop": [
         386
     ],
-    "d\u00e9leveurs": [
+    "d\u00e9leveur": [
         387
     ],
-    "pastourelleles": [
+    "pastourellele": [
         387
     ],
     "occitanesindustriel": [
         387
     ],
-    "larbas": [
+    "larba": [
         388
     ],
-    "cantorelcoop\u00e9rative": [
+    "cantorelcoop\u00e9ratif": [
         388
     ],
-    "verni\u00e8res": [
-        389,
-        392,
-        393,
-        394,
+    "verni\u00e8re": [
         396
     ],
-    "entreprise": [
-        392,
-        428,
-        454,
-        1038
-    ],
-    "fr\u00e8res": [
-        392,
+    "fr\u00e8re": [
         394
     ],
     "filiation": [
         393
     ],
-    "impliqu\u00e9es": [
-        393
+    "impliquer": [
+        703
     ],
-    "recul\u00e9s": [
+    "recul\u00e9": [
         394
     ],
     "roquefortentreprise": [
@@ -4399,7 +3527,7 @@
     "label": [
         396
     ],
-    "ind\u00e9pendante": [
+    "ind\u00e9pendant": [
         397
     ],
     "commerc": [
@@ -4411,19 +3539,16 @@
     "bergersarl": [
         401
     ],
-    "combes": [
-        401,
+    "combe": [
         402
     ],
     "combeslaitier": [
         402
     ],
-    "carles\u00e9tablissements": [
+    "carles\u00e9tablissement": [
         404
     ],
-    "carles": [
-        404,
-        404,
+    "carle": [
         405
     ],
     "carlesfermier": [
@@ -4433,10 +3558,12 @@
         406,
         898
     ],
-    "distributeurs": [
-        407
+    "distributeur": [
+        407,
+        411,
+        412
     ],
-    "pr\u00e9tranch\u00e9portionemball\u00e9grande": [
+    "pr\u00e9tranch\u00e9portionemratdall\u00e9gemnand": [
         408
     ],
     "distributionsoci\u00e9t\u00e9": [
@@ -4445,40 +3572,34 @@
     "occitanesindustrielroquefort": [
         411
     ],
-    "distributeur": [
-        411,
-        412
-    ],
     "\u00e9tiquette": [
         412
     ],
-    "informative": [
+    "informatif": [
         412
     ],
-    "organismes": [
+    "organisme": [
         414
     ],
-    "officiels": [
+    "officiel": [
         414
     ],
     "f\u00e9d\u00e9ration": [
         415,
         417
     ],
-    "r\u00e9gionale": [
-        415,
+    "r\u00e9gional": [
         509
     ],
-    "syndicats": [
-        417,
-        421
-    ],
-    "g\u00e9n\u00e9rale": [
+    "syndicat": [
         421,
-        453,
-        470
+        446
     ],
-    "g\u00e9r\u00e9e": [
+    "g\u00e9n\u00e9ral": [
+        648,
+        1079
+    ],
+    "g\u00e9rer": [
         421
     ],
     "conseil": [
@@ -4488,15 +3609,11 @@
     "dadministration": [
         421
     ],
-    "form\u00e9": [
-        421
+    "former": [
+        509
     ],
     "coll\u00e8ge": [
         421
-    ],
-    "assure": [
-        422,
-        526
     ],
     "d\u00e9fense": [
         422
@@ -4505,21 +3622,17 @@
         422,
         890
     ],
-    "coordonne": [
+    "coordonner": [
         422
     ],
-    "relations": [
+    "relation": [
         422
     ],
-    "transformateurs": [
-        422
-    ],
-    "services": [
-        422,
+    "service": [
         469
     ],
-    "techniques": [
-        422
+    "technique": [
+        524
     ],
     "dappui": [
         422
@@ -4527,17 +3640,15 @@
     "aupr\u00e8s": [
         422
     ],
-    "\u00e9tudes": [
-        422,
-        434,
-        827,
-        857
+    "\u00e9tude": [
+        857,
+        857,
+        973
     ],
     "finance": [
         422
     ],
-    "analyses": [
-        422,
+    "analyse": [
         859
     ],
     "composition": [
@@ -4559,30 +3670,23 @@
     "longtemps": [
         426
     ],
-    "repr\u00e9sentant": [
-        426,
-        1030
-    ],
-    "spots": [
+    "spot": [
         426
     ],
-    "publicitaires": [
-        426,
-        427
+    "publicitaire": [
+        427,
+        889
     ],
-    "bacchantes": [
-        427
-    ],
-    "collaient": [
+    "bacchante": [
         427
     ],
     "limage": [
         427
     ],
-    "voulaient": [
-        427
+    "vouloir": [
+        1086
     ],
-    "c\u00e9tait": [
+    "c\u00e9ter": [
         428
     ],
     "ma\u00eetre": [
@@ -4593,7 +3697,7 @@
         428,
         429
     ],
-    "choisi": [
+    "choisir": [
         428
     ],
     "parmi": [
@@ -4605,20 +3709,14 @@
     "politique": [
         429
     ],
-    "promotionnelle": [
+    "promotionnel": [
         429
     ],
     "lentreprise": [
         429
     ],
-    "remplac\u00e9": [
-        429
-    ],
     "retraite": [
         429
-    ],
-    "autre": [
-        741
     ],
     "jeune": [
         429
@@ -4629,17 +3727,14 @@
     "utilisation": [
         433
     ],
-    "m\u00e9dicale": [
+    "m\u00e9dical": [
         433
     ],
     "fr\u00e9quemment": [
         434,
         856
     ],
-    "all\u00e9gu\u00e9": [
-        434
-    ],
-    "aurait": [
+    "all\u00e9guer": [
         434
     ],
     "autrefois": [
@@ -4647,19 +3742,10 @@
         664,
         973
     ],
-    "pr\u00e9tendus": [
+    "antibact\u00e9rien": [
         434
     ],
-    "effets": [
-        434
-    ],
-    "antibact\u00e9riens": [
-        434
-    ],
-    "r\u00e9centes": [
-        434
-    ],
-    "produisait": [
+    "r\u00e9cent": [
         434
     ],
     "p\u00e9nicilline": [
@@ -4679,8 +3765,7 @@
         437
     ],
     "r\u00e9aliser": [
-        437,
-        486
+        721
     ],
     "synth\u00e8se": [
         437
@@ -4712,19 +3797,15 @@
         442
     ],
     "syndicaliste": [
-        442
+        447
     ],
     "regard": [
         442
     ],
-    "d\u00e9termin\u00e9": [
-        442,
-        558
-    ],
     "contraste": [
         442
     ],
-    "banderoles": [
+    "banderole": [
         442
     ],
     "arri\u00e8replan": [
@@ -4746,7 +3827,7 @@
         446,
         805
     ],
-    "m\u00e9diatis\u00e9": [
+    "m\u00e9diatiser": [
         446
     ],
     "laction": [
@@ -4755,24 +3836,17 @@
         568,
         569
     ],
-    "men\u00e9e": [
+    "mener": [
         446
     ],
-    "homologues": [
+    "homologue": [
         446
     ],
-    "paysans": [
-        446,
-        447
+    "paysan": [
+        450,
+        829
     ],
-    "militants": [
-        446
-    ],
-    "paysanne": [
-        446,
-        450
-    ],
-    "syndicat": [
+    "militant": [
         446
     ],
     "chantier": [
@@ -4782,7 +3856,7 @@
         446
     ],
     "sandwicherie": [
-        446
+        688
     ],
     "mcdonalds": [
         446,
@@ -4795,13 +3869,10 @@
     "d\u00e9montage": [
         446
     ],
-    "qualifi\u00e9e": [
+    "qualifier": [
         447
     ],
-    "syndicalistes": [
-        447
-    ],
-    "saccage": [
+    "saccager": [
         447
     ],
     "propri\u00e9taire": [
@@ -4813,7 +3884,7 @@
     "action": [
         447
     ],
-    "sanctionn\u00e9e": [
+    "sanctionner": [
         447
     ],
     "cours": [
@@ -4827,7 +3898,7 @@
     "verdict": [
         447
     ],
-    "condamn\u00e9": [
+    "condamner": [
         447
     ],
     "peine": [
@@ -4837,13 +3908,13 @@
         447,
         447
     ],
-    "sursis": [
+    "sursi": [
         447
     ],
-    "agriculteurs": [
+    "agriculteur": [
         447
     ],
-    "sagissait": [
+    "sagir": [
         450
     ],
     "protester": [
@@ -4855,10 +3926,9 @@
     "lorganisation": [
         450
     ],
-    "mondiale": [
-        450,
-        880,
-        986
+    "mondial": [
+        998,
+        1030
     ],
     "commerce": [
         450,
@@ -4868,22 +3938,16 @@
     "dautoriser": [
         450
     ],
-    "sanctions": [
-        450
-    ],
-    "am\u00e9ricaines": [
+    "sanction": [
         450
     ],
     "taxation": [
         450
     ],
-    "punitive": [
+    "punitif": [
         450
     ],
-    "certaines": [
-        760
-    ],
-    "importations": [
+    "importation": [
         450
     ],
     "refus": [
@@ -4892,15 +3956,7 @@
     "dimporter": [
         450
     ],
-    "\u00e9lev\u00e9e": [
-        450,
-        464,
-        802,
-        973,
-        982
-    ],
-    "hormones": [
-        450,
+    "hormone": [
         464
     ],
     "croissance": [
@@ -4909,7 +3965,7 @@
         718,
         981
     ],
-    "lanc\u00e9": [
+    "lancer": [
         453
     ],
     "linitiative": [
@@ -4918,28 +3974,23 @@
     "jaimeleroquefort": [
         453
     ],
-    "visant": [
+    "viser": [
         453
     ],
     "f\u00e9d\u00e9rer": [
         453
     ],
-    "amateurs": [
+    "amateur": [
         453
     ],
-    "prot\u00e9ger": [
+    "menace": [
+        453,
+        458
+    ],
+    "surtaxe": [
         453
     ],
-    "menaces": [
-        453
-    ],
-    "surtaxes": [
-        453
-    ],
-    "t\u00e9moignages": [
-        454
-    ],
-    "permettront": [
+    "t\u00e9moignage": [
         454
     ],
     "soutien": [
@@ -4948,13 +3999,10 @@
     "lencontre": [
         454
     ],
-    "concern\u00e9es": [
-        454
-    ],
     "question": [
         454
     ],
-    "cl\u00f4turera": [
+    "cl\u00f4turer": [
         454
     ],
     "george": [
@@ -4966,16 +4014,13 @@
     "mandat": [
         458
     ],
-    "menace": [
-        458
-    ],
     "taxer": [
         458
     ],
-    "soul\u00e8ve": [
+    "soulever": [
         458
     ],
-    "inqui\u00e9tudes": [
+    "inqui\u00e9tude": [
         458
     ],
     "pr\u00e9sident": [
@@ -4984,7 +4029,7 @@
         471,
         1079
     ],
-    "midipyr\u00e9n\u00e9es": [
+    "midipyr\u00e9n\u00e9e": [
         461
     ],
     "martin": [
@@ -4993,7 +4038,7 @@
     "malvy": [
         461
     ],
-    "envoy\u00e9": [
+    "envoyer": [
         461
     ],
     "barack": [
@@ -5010,26 +4055,20 @@
     "finalement": [
         464
     ],
-    "r\u00e9solu": [
+    "r\u00e9soudre": [
         464
     ],
     "administration": [
         464
     ],
-    "accord": [
-        464
-    ],
     "renoncer": [
-        464
-    ],
-    "droits": [
         464
     ],
     "douane": [
         464
     ],
     "\u00e9change": [
-        464
+        924
     ],
     "bovine": [
         464
@@ -5055,19 +4094,17 @@
         468,
         469
     ],
-    "animaux": [
-        468,
-        468,
+    "animal": [
         853
     ],
-    "diffuse": [
+    "diffuser": [
         468
     ],
     "vid\u00e9o": [
         468,
         476
     ],
-    "intitul\u00e9e": [
+    "intituler": [
         468
     ],
     "souffrance": [
@@ -5079,13 +4116,10 @@
     "tourn\u00e9e": [
         468
     ],
-    "\u00e9levage": [
-        468
-    ],
     "abattoir": [
         468
     ],
-    "dovins": [
+    "dovin": [
         468
     ],
     "rodez": [
@@ -5094,8 +4128,8 @@
     "aveyron": [
         468
     ],
-    "d\u00e9non\u00e7ant": [
-        468
+    "d\u00e9noncer": [
+        476
     ],
     "dengraissement": [
         468
@@ -5104,18 +4138,16 @@
         468,
         469
     ],
-    "centaines": [
-        468,
+    "centaine": [
         483
     ],
-    "milliers": [
-        468,
+    "millier": [
         936
     ],
-    "dagneaux": [
+    "dagneau": [
         468
     ],
-    "sousproduits": [
+    "sousproduit": [
         468
     ],
     "lindustrie": [
@@ -5127,37 +4159,34 @@
     "non\u00e9tourdissement": [
         468
     ],
-    "b\u00eates": [
+    "b\u00eate": [
         468
     ],
-    "\u00e9gorgements": [
+    "\u00e9gorgement": [
         468
     ],
     "d\u00e9levage": [
         468
     ],
-    "indignes": [
+    "indigne": [
         468
     ],
-    "priv\u00e9s": [
+    "priv\u00e9": [
         468
     ],
-    "soins": [
+    "soin": [
         468
     ],
-    "annonce": [
+    "annoncer": [
         469
     ],
     "plainte": [
         469
     ],
-    "s\u00e9vices": [
+    "s\u00e9vice": [
         469
     ],
-    "graves": [
-        469,
-        469,
-        476,
+    "grave": [
         858
     ],
     "labattoir": [
@@ -5171,10 +4200,10 @@
     "sudouest": [
         469
     ],
-    "\u00e9pingl\u00e9": [
+    "\u00e9pingler": [
         469
     ],
-    "v\u00e9t\u00e9rinaires": [
+    "v\u00e9t\u00e9rinaire": [
         469
     ],
     "quatre": [
@@ -5184,13 +4213,13 @@
     "auparavant": [
         469
     ],
-    "nonconformit\u00e9s": [
+    "nonconformit\u00e9": [
         469
     ],
-    "majeures": [
-        469
+    "majeur": [
+        481
     ],
-    "r\u00e9clame": [
+    "r\u00e9clamer": [
         469
     ],
     "fermeture": [
@@ -5199,63 +4228,52 @@
     "durgence": [
         469
     ],
-    "probl\u00e8mes": [
+    "probl\u00e8me": [
         469
     ],
-    "structurels": [
+    "structurel": [
         469
     ],
-    "pratiques": [
-        469,
-        472,
-        476,
+    "pratique": [
         1047
     ],
     "grandement": [
         469
     ],
-    "d\u00e9ficientes": [
+    "d\u00e9ficient": [
         469
     ],
-    "enjoint": [
+    "enjoindre": [
         470
     ],
     "ailleurs": [
         470
     ],
     "modifier": [
-        470
+        790
     ],
     "cahier": [
         470
     ],
-    "charges": [
-        470
-    ],
-    "interdit": [
+    "charge": [
         470
     ],
     "denfermer": [
         470
     ],
-    "agneaux": [
+    "agneau": [
         470
     ],
-    "toute": [
-        470,
-        597,
-        850
-    ],
-    "b\u00e2timents": [
+    "b\u00e2timent": [
         470
     ],
-    "ferm\u00e9s": [
+    "fermer": [
         470
     ],
     "acc\u00e8s": [
         470
     ],
-    "balay\u00e9e": [
+    "balayer": [
         471
     ],
     "l\u00e9leveur": [
@@ -5267,41 +4285,38 @@
     "faramond": [
         471
     ],
-    "rappelle": [
+    "rappeler": [
+        471,
+        828
+    ],
+    "adh\u00e9rent": [
         471
     ],
-    "adh\u00e9rents": [
-        471
-    ],
-    "d\u00e9clare": [
+    "d\u00e9clarer": [
         472
     ],
-    "inacceptables": [
-        472,
+    "inacceptable": [
         476
     ],
-    "saura": [
+    "savoir": [
         472
     ],
-    "\u00e9ch\u00e9ant": [
-        472
-    ],
-    "prendre": [
+    "\u00e9ch\u00e9er": [
         472
     ],
     "position": [
         472
     ],
-    "suscit\u00e9e": [
+    "susciter": [
         476
     ],
-    "jette": [
+    "jeter": [
         476
     ],
     "discr\u00e9dit": [
         476
     ],
-    "fragilis\u00e9e": [
+    "fragiliser": [
         476
     ],
     "didier": [
@@ -5310,16 +4325,16 @@
     "guillaume": [
         476
     ],
-    "salue": [
+    "saluer": [
         476
     ],
     "davoir": [
         476
     ],
-    "regrette": [
+    "regretter": [
         476
     ],
-    "puissions": [
+    "puisser": [
         476
     ],
     "assez": [
@@ -5329,59 +4344,39 @@
         476,
         592
     ],
-    "d\u00e9nonce": [
+    "manquement": [
         476
     ],
-    "manquements": [
+    "r\u00e8gle": [
         476
-    ],
-    "r\u00e8gles": [
-        476
-    ],
-    "animale": [
-        476,
-        853
     ],
     "suspension": [
         476
     ],
-    "imm\u00e9diate": [
+    "imm\u00e9diat": [
         476
     ],
-    "chaine": [
+    "cha\u00eene": [
         476
     ],
     "ovine": [
         476
     ],
-    "diligente": [
+    "diligent": [
         476
     ],
     "inspection": [
         476
     ],
-    "compl\u00e8te": [
-        476
-    ],
-    "demandant": [
-        476
-    ],
-    "fran\u00e7ais": [
+    "complet": [
         476,
-        861,
-        1069,
-        1081
+        804
     ],
-    "fid\u00e8les": [
+    "fid\u00e8le": [
         476
     ],
     "statue": [
         480
-    ],
-    "marie": [
-        480,
-        698,
-        718
     ],
     "harel": [
         480
@@ -5389,16 +4384,13 @@
     "inventeuse": [
         480
     ],
-    "pr\u00e9sum\u00e9e": [
+    "pr\u00e9sum\u00e9": [
         480
     ],
     "camembert": [
         1101
     ],
-    "vimoutiers": [
-        480
-    ],
-    "offerte": [
+    "vimoutier": [
         480
     ],
     "lohio": [
@@ -5409,13 +4401,6 @@
         1073,
         1076,
         1086
-    ],
-    "ingr\u00e9dients": [
-        481,
-        983
-    ],
-    "majeurs": [
-        481
     ],
     "ma\u00eetrefromager": [
         481
@@ -5437,7 +4422,7 @@
     "gastronomique": [
         482
     ],
-    "expliqu\u00e9": [
+    "expliquer": [
         482
     ],
     "propos": [
@@ -5462,31 +4447,28 @@
         558,
         882
     ],
-    "amen\u00e9": [
-        484
-    ],
-    "notre": [
-        484
+    "amener": [
+        783
     ],
     "assiette": [
         484
     ],
-    "sorties": [
+    "sortie": [
         485
     ],
     "domestique": [
         485
     ],
-    "tartes": [
+    "tarte": [
         485
     ],
-    "flans": [
+    "flan": [
         485
     ],
-    "connues": [
-        485
+    "conna\u00eetre": [
+        1062
     ],
-    "m\u00e9di\u00e9vale": [
+    "m\u00e9di\u00e9val": [
         485
     ],
     "fortiori": [
@@ -5496,51 +4478,42 @@
         485
     ],
     "gruy\u00e8re": [
-        485
+        621
     ],
-    "macaronis": [
+    "macaroni": [
         485
     ],
     "d\u00e9couvrir": [
         486
     ],
-    "couvre": [
+    "couvrir": [
         486
     ],
     "\u00e9ventail": [
         486
     ],
-    "aller": [
+    "simple": [
         486
     ],
-    "simples": [
+    "facile": [
         486
     ],
-    "faciles": [
-        486
-    ],
-    "riches": [
-        486,
-        665,
-        683,
+    "riche": [
         808
     ],
-    "g\u00e9n\u00e9reuses": [
+    "g\u00e9n\u00e9reux": [
         486
     ],
-    "vari\u00e9es": [
+    "vari\u00e9": [
         486
     ],
-    "offrant": [
+    "dinnombrable": [
         486
     ],
-    "dinnombrables": [
+    "combinaison": [
         486
     ],
-    "combinaisons": [
-        486
-    ],
-    "saveurs": [
+    "saveur": [
         486
     ],
     "\u00e9tymologie": [
@@ -5549,11 +4522,12 @@
     "lhistoire": [
         489
     ],
-    "attest\u00e9": [
-        490
+    "attester": [
+        495
     ],
-    "trouve": [
-        490
+    "trouver": [
+        490,
+        856
     ],
     "formage": [
         490,
@@ -5562,7 +4536,7 @@
         581
     ],
     "proche": [
-        490,
+        650,
         802
     ],
     "l\u00e9tymologie": [
@@ -5572,8 +4546,7 @@
         490,
         495
     ],
-    "proc\u00e8de": [
-        493,
+    "proc\u00e9der": [
         870
     ],
     "latin": [
@@ -5594,46 +4567,33 @@
     "formaticus": [
         504
     ],
-    "d\u00e9rivant": [
-        494
+    "d\u00e9river": [
+        504
     ],
     "classique": [
         494,
         687
     ],
-    "forma": [
-        509
-    ],
-    "attendue": [
+    "attendre": [
         495
     ],
-    "attest\u00e9e": [
-        495
-    ],
-    "d\u00e9tach\u00e9": [
+    "d\u00e9tacher": [
         495
     ],
     "dictionnaire": [
-        498
+        499
     ],
     "historique": [
         498
     ],
     "langue": [
-        498
+        518
     ],
     "alain": [
         499
     ],
-    "dictionnaires": [
-        499
-    ],
     "formticum": [
         503
-    ],
-    "d\u00e9riv\u00e9": [
-        503,
-        504
     ],
     "ellipse": [
         503
@@ -5643,39 +4603,31 @@
         503,
         512
     ],
-    "moul\u00e9": [
-        503,
+    "mouler": [
         582
     ],
     "l\u00e9l\u00e9ment": [
         503
     ],
-    "effac\u00e9": [
+    "effacer": [
         503
     ],
     "wiktfoie": [
         503
     ],
-    "signifie": [
-        504
-    ],
-    "moule": [
-        504,
-        504,
-        578,
-        624,
-        625
+    "signifier": [
+        515
     ],
     "ladjectif": [
         505
     ],
-    "substantiv\u00e9": [
+    "substantiver": [
         505
     ],
     "r\u00e9guli\u00e8rement": [
         505
     ],
-    "\u00e9volu\u00e9": [
+    "\u00e9voluer": [
         505
     ],
     "ancien": [
@@ -5684,9 +4636,6 @@
     "lemprunt": [
         507,
         513
-    ],
-    "donn\u00e9": [
-        507
     ],
     "litalien": [
         507
@@ -5699,7 +4648,7 @@
         512
     ],
     "poitevin": [
-        507
+        758
     ],
     "feurmage": [
         507
@@ -5728,8 +4677,8 @@
         507,
         518
     ],
-    "perp\u00e9tue": [
-        509
+    "perp\u00e9tuer": [
+        512
     ],
     "quant": [
         898
@@ -5744,17 +4693,13 @@
     "moderne": [
         509
     ],
-    "occitane": [
-        509,
-        509
-    ],
-    "normalis\u00e9e": [
-        509
+    "occitan": [
+        411
     ],
     "linguistique": [
         509
     ],
-    "courante": [
+    "courant": [
         509
     ],
     "forez": [
@@ -5763,7 +4708,7 @@
     "lauvergne": [
         509
     ],
-    "lancienne": [
+    "lancien": [
         509
     ],
     "province": [
@@ -5772,37 +4717,29 @@
     "rouergue": [
         509
     ],
-    "francis\u00e9e": [
+    "franciser": [
         509
     ],
-    "sp\u00e9cialit\u00e9s": [
+    "sp\u00e9cialit\u00e9": [
+        509,
+        888
+    ],
+    "zone": [
         509
     ],
-    "zones": [
-        509
-    ],
-    "territoriales": [
+    "territorial": [
         509
     ],
     "substantif": [
         512
     ],
-    "disparu": [
+    "dispara\u00eetre": [
         512
     ],
     "galloroman": [
         512
     ],
-    "perp\u00e9tu\u00e9": [
-        512
-    ],
-    "langues": [
-        512,
-        513,
-        515,
-        518
-    ],
-    "romanes": [
+    "roman": [
         512
     ],
     "espagnol": [
@@ -5822,19 +4759,14 @@
     "roumain": [
         512
     ],
-    "conna\u00eet": [
-        512
-    ],
-    "d\u00e9riv\u00e9s": [
-        512,
+    "d\u00e9riv\u00e9": [
         867
     ],
     "savant": [
         512
     ],
     "cas\u00e9ine": [
-        512,
-        531
+        536
     ],
     "lautre": [
         512,
@@ -5845,16 +4777,18 @@
     "ch\u00e9sery": [
         512
     ],
-    "lieux": [
+    "lieu": [
         512
     ],
     "alpesn": [
         512
     ],
-    "germaniques": [
-        513
+    "germanique": [
+        513,
+        514
     ],
-    "occidentales": [
+    "occidental": [
+        513,
         513
     ],
     "anglais": [
@@ -5864,9 +4798,6 @@
     "cheese": [
         1081
     ],
-    "vieil": [
-        513
-    ],
     "allemand": [
         513
     ],
@@ -5874,9 +4805,6 @@
         513
     ],
     "frison": [
-        513
-    ],
-    "occidental": [
         513
     ],
     "tsiis": [
@@ -5891,23 +4819,13 @@
     "hypoth\u00e9tique": [
         514
     ],
-    "germanique": [
-        514
-    ],
     "ksijaz": [
         514
     ],
-    "signifient": [
-        515
-    ],
-    "diff\u00e9rentes": [
-        515,
-        701
-    ],
-    "celtiques": [
+    "celtique": [
         518
     ],
-    "emprunt\u00e9": [
+    "emprunter": [
         518
     ],
     "irlandais": [
@@ -5921,9 +4839,6 @@
     ],
     "emprunt": [
         521
-    ],
-    "technique": [
-        524
     ],
     "cas\u00e9ologie": [
         525
@@ -5966,32 +4881,10 @@
     "biologiquement": [
         530
     ],
-    "cas\u00e9ines": [
-        530,
-        532,
-        533,
-        536
-    ],
-    "mati\u00e8res": [
-        530,
-        531,
-        654
-    ],
-    "grasses": [
-        530,
+    "consister": [
         531
     ],
-    "consiste": [
-        531
-    ],
-    "s\u00e9parer": [
-        531,
-        577
-    ],
-    "rassembler": [
-        531
-    ],
-    "d\u00e9grad\u00e9es": [
+    "d\u00e9grader": [
         532
     ],
     "leffet": [
@@ -6004,32 +4897,8 @@
         533
     ],
     "pr\u00e9sure": [
-        532,
-        533,
-        533,
-        534,
-        535,
-        543,
-        567,
-        568,
-        569,
-        572,
-        572,
-        669,
+        687,
         750
-    ],
-    "peuvent": [
-        533,
-        536,
-        570,
-        666,
-        678,
-        711,
-        750,
-        778,
-        823,
-        844,
-        987
     ],
     "sagglom\u00e9rer": [
         533
@@ -6037,50 +4906,29 @@
     "seulement": [
         929
     ],
-    "adouci": [
+    "adoucir": [
         533
     ],
     "situation": [
         533
     ],
     "interm\u00e9diaire": [
-        533
-    ],
-    "utilise": [
-        533
-    ],
-    "acidifiante": [
-        533
+        534
     ],
     "lactose": [
         867
     ],
-    "lactique": [
-        533,
-        534,
-        572,
-        658,
-        869
-    ],
-    "\u00e9quivalent": [
-        533,
-        813
-    ],
-    "interm\u00e9diaires": [
-        534
-    ],
-    "possibles": [
-        534,
+    "possible": [
         843
     ],
-    "parle": [
+    "parler": [
         534
     ],
     "caillage": [
         610,
         611
     ],
-    "n\u00e9cessite": [
+    "n\u00e9cessiter": [
         535
     ],
     "pr\u00e9sence": [
@@ -6091,25 +4939,13 @@
     "composant": [
         535
     ],
-    "naturel": [
-        535,
-        696,
-        778
-    ],
-    "chauff\u00e9s": [
-        535
-    ],
-    "rajoute": [
-        535,
+    "rajouter": [
         659
     ],
     "chlorure": [
         535,
         564,
         670
-    ],
-    "r\u00e9cup\u00e9r\u00e9es": [
-        536
     ],
     "acidification": [
         536,
@@ -6121,16 +4957,7 @@
         536
     ],
     "article": [
-        539,
-        744,
-        991,
-        1057,
-        1067,
-        1094
-    ],
-    "d\u00e9taill\u00e9": [
-        539,
-        744,
+        867,
         991,
         1057,
         1067,
@@ -6142,11 +4969,11 @@
     "douze": [
         542
     ],
-    "manipulations": [
+    "manipulation": [
         542
     ],
-    "d\u00e9crites": [
-        542
+    "d\u00e9crire": [
+        700
     ],
     "ciapr\u00e8s": [
         542
@@ -6154,8 +4981,12 @@
     "th\u00e9oriquement": [
         542
     ],
-    "indispensables": [
-        542
+    "indispensable": [
+        542,
+        553,
+        563,
+        675,
+        829
     ],
     "moulage": [
         581,
@@ -6182,11 +5013,11 @@
         543,
         543
     ],
-    "grains": [
-        543,
-        574
+    "grain": [
+        574,
+        580
     ],
-    "jonch\u00e9e": [
+    "joncher": [
         543
     ],
     "r\u00e9gime": [
@@ -6197,19 +5028,9 @@
         837
     ],
     "\u00e9ventuel": [
-        546,
-        552,
-        558,
-        563,
-        574,
-        585,
-        590,
-        594
+        658
     ],
     "recueillir": [
-        546
-    ],
-    "destin\u00e9e": [
         546
     ],
     "beurre": [
@@ -6219,15 +5040,7 @@
         861,
         1051
     ],
-    "pratique": [
-        547,
-        560,
-        563
-    ],
-    "donne": [
-        547
-    ],
-    "maigres": [
+    "maigre": [
         547
     ],
     "cr\u00e9meux": [
@@ -6238,11 +5051,10 @@
         548,
         553
     ],
-    "l\u00e9g\u00e8re": [
-        548
+    "l\u00e9ger": [
+        1084
     ],
-    "constituant": [
-        548,
+    "constituer": [
         820
     ],
     "majoritaire": [
@@ -6254,26 +5066,17 @@
         580,
         594
     ],
-    "r\u00e9alis\u00e9e": [
-        549,
-        565,
-        578,
-        699
-    ],
     "centrifugation": [
         549,
         579,
         683
     ],
-    "artisans": [
+    "artisan": [
         549
     ],
     "parfois": [
         550,
         602
-    ],
-    "pr\u00e9lev\u00e9e": [
-        550
     ],
     "coupellation": [
         550
@@ -6287,36 +5090,21 @@
     "audessus": [
         550
     ],
-    "concerne": [
+    "garder": [
+        552
+    ],
+    "r\u00e9servoir": [
         552,
-        857,
-        986
+        602
     ],
-    "gard\u00e9s": [
-        552
-    ],
-    "r\u00e9servoirs": [
-        552
-    ],
-    "r\u00e9frig\u00e9r\u00e9s": [
+    "r\u00e9frig\u00e9rer": [
         552
     ],
     "cause": [
         552
     ],
-    "diff\u00e9r\u00e9e": [
+    "diff\u00e9rer": [
         552
-    ],
-    "caill\u00e9s": [
-        552,
-        572,
-        678,
-        683,
-        784
-    ],
-    "chauffer": [
-        553,
-        558
     ],
     "r\u00e9tablir": [
         553
@@ -6333,12 +5121,6 @@
         585,
         597
     ],
-    "indispensable": [
-        553,
-        563,
-        675,
-        829
-    ],
     "comt\u00e9": [
         554,
         580,
@@ -6353,26 +5135,22 @@
     "processus": [
         558
     ],
-    "bact\u00e9ries": [
-        736,
+    "bact\u00e9rie": [
         737
     ],
-    "pathog\u00e8nes": [
-        558,
-        705,
-        721,
+    "pathog\u00e8ne": [
         850
     ],
-    "nuisibles": [
+    "nuisible": [
         558
     ],
     "augmenter": [
         558
     ],
-    "b\u00e9n\u00e9fiques": [
+    "b\u00e9n\u00e9fique": [
         559
     ],
-    "d\u00e9truites": [
+    "d\u00e9truire": [
         559
     ],
     "baisser": [
@@ -6381,31 +5159,22 @@
     "sensiblement": [
         560
     ],
-    "fromag\u00e8re": [
-        560,
-        649,
-        928
-    ],
-    "vivant": [
-        560,
+    "vivre": [
         698
     ],
-    "danalyses": [
+    "danalyse": [
         560
     ],
-    "bact\u00e9riologiques": [
+    "bact\u00e9riologique": [
+        560,
+        708
+    ],
+    "co\u00fbteux": [
         560
     ],
-    "co\u00fbteuses": [
-        560
-    ],
-    "rapproch\u00e9es": [
-        560
-    ],
-    "premi\u00e8re": [
-        561,
-        859,
-        898
+    "rapprocher": [
+        560,
+        1090
     ],
     "importance": [
         561,
@@ -6414,48 +5183,31 @@
     "lagroindustrie": [
         561
     ],
-    "pasteuris\u00e9s": [
-        563
+    "pasteuris\u00e9": [
+        649,
+        654,
+        657,
+        718
     ],
-    "microfiltr\u00e9s": [
-        563
-    ],
-    "transform\u00e9s": [
-        563
-    ],
-    "seules": [
+    "microfiltr\u00e9": [
         563,
-        859
+        654,
+        718
     ],
-    "limit\u00e9": [
+    "transformer": [
+        869
+    ],
+    "bact\u00e9rien": [
         563
     ],
-    "souches": [
-        563,
-        563,
-        713
-    ],
-    "bact\u00e9riennes": [
-        563
-    ],
-    "\u00e9taient": [
-        563,
-        758,
-        829,
-        860
-    ],
-    "utilis\u00e9es": [
-        563
-    ],
-    "conduit": [
-        563,
+    "conduire": [
         721
     ],
     "uniformisation": [
         563,
         724
     ],
-    "sensorielles": [
+    "sensoriel": [
         563
     ],
     "choix": [
@@ -6465,7 +5217,7 @@
         563,
         804
     ],
-    "\u00e9toff\u00e9": [
+    "\u00e9toffer": [
         563
     ],
     "voire": [
@@ -6474,8 +5226,8 @@
         782,
         790
     ],
-    "st\u00e9rilis\u00e9": [
-        564
+    "st\u00e9riliser": [
+        777
     ],
     "besoin": [
         564,
@@ -6487,48 +5239,30 @@
         840,
         1030
     ],
-    "enrichi": [
-        564
-    ],
     "lactobacillus": [
         737
     ],
     "entra\u00eener": [
-        565
+        599
     ],
     "lacidification": [
         565,
         569,
         749
     ],
-    "inhib\u00e9e": [
+    "inhiber": [
         565
     ],
-    "fromager": [
-        567,
-        574,
-        597,
-        721,
-        837,
-        837,
-        1030
+    "optimal": [
+        834
     ],
-    "ajoute": [
-        567
+    "r\u00e9sulter": [
+        715
     ],
-    "optimale": [
-        568
-    ],
-    "r\u00e9sulte": [
+    "distinct": [
         569
     ],
-    "s\u00e9pare": [
-        569
-    ],
-    "distincts": [
-        569
-    ],
-    "sutilisent": [
+    "sutiliser": [
         570
     ],
     "exclusivement": [
@@ -6540,16 +5274,8 @@
     "chhena": [
         570
     ],
-    "m\u00e9nagers": [
+    "m\u00e9nager": [
         570
-    ],
-    "traditionnel": [
-        571,
-        680
-    ],
-    "\u00e9labor\u00e9s": [
-        571,
-        703
     ],
     "lensemencement": [
         571,
@@ -6562,13 +5288,12 @@
         572
     ],
     "d\u00e9terminant": [
-        572
+        600
     ],
     "caract\u00e8re": [
-        572,
-        572
+        791
     ],
-    "domine": [
+    "dominer": [
         572
     ],
     "pontl\u00e9v\u00eaque": [
@@ -6582,7 +5307,7 @@
         614,
         615
     ],
-    "traverse": [
+    "traverser": [
         574
     ],
     "masse": [
@@ -6590,28 +5315,16 @@
         683,
         986
     ],
-    "laide": [
+    "laid": [
         574
     ],
-    "couteaux": [
+    "couteau": [
         574
-    ],
-    "obtenir": [
-        574,
-        581
-    ],
-    "grands": [
-        574,
-        581,
-        883
     ],
     "sorte": [
-        574
+        1078
     ],
-    "d\u00e9sir\u00e9e": [
-        574
-    ],
-    "exprimer": [
+    "d\u00e9sirer": [
         574
     ],
     "syst\u00e9matique": [
@@ -6627,60 +5340,39 @@
     "\u00e9tape": [
         577
     ],
-    "finissent": [
+    "finir": [
         577
-    ],
-    "utilis\u00e9s": [
-        578,
-        725
     ],
     "l\u00e9tamine": [
         578
     ],
-    "perfor\u00e9e": [
+    "perforer": [
         578
     ],
-    "fonctions": [
-        578
+    "fonction": [
+        578,
+        659,
+        1101
     ],
-    "fabrications": [
-        579,
-        649,
-        650
-    ],
-    "industrialis\u00e9es": [
+    "industrialiser": [
         579
     ],
-    "r\u00e9alis\u00e9": [
-        579,
-        588
-    ],
-    "compl\u00e9t\u00e9e": [
+    "compl\u00e9ter": [
         580
     ],
     "chauffant": [
         580
     ],
-    "jusquaux": [
+    "jusqual": [
         580
     ],
     "alentours": [
         580
     ],
-    "s\u00e9cher": [
-        580
-    ],
-    "grain": [
-        580
-    ],
-    "meules": [
+    "meule": [
         581
     ],
     "genre": [
-        581
-    ],
-    "genres": [
-        581,
         728
     ],
     "picodon": [
@@ -6689,38 +5381,24 @@
     "p\u00e9rail": [
         581
     ],
-    "alimentaire": [
-        582
-    ],
-    "livr\u00e9": [
-        582
-    ],
-    "toiles": [
-        582
-    ],
-    "ayant": [
+    "toile": [
         582,
-        857,
-        857
+        628,
+        629
     ],
-    "servi": [
-        582,
-        1073
-    ],
-    "conditionn\u00e9": [
+    "conditionner": [
         583
     ],
-    "boules": [
+    "boule": [
         583
     ],
-    "paquets": [
+    "paquet": [
         583
     ],
-    "pr\u00e9tranch\u00e9s": [
+    "pr\u00e9trancher": [
         583
     ],
-    "granul\u00e9s": [
-        583,
+    "granul\u00e9": [
         687
     ],
     "vraiment": [
@@ -6736,7 +5414,7 @@
         586,
         595
     ],
-    "mains": [
+    "main": [
         586
     ],
     "presse": [
@@ -6749,48 +5427,40 @@
     "immersion": [
         588
     ],
-    "rares": [
+    "rare": [
         588
     ],
-    "saintemauredetouraine": [
-        588,
+    "saintemauredetourain": [
         754
     ],
     "valen\u00e7ay": [
         588
     ],
-    "cendres": [
+    "cendre": [
         588
     ],
     "lavage": [
         589
     ],
-    "cro\u00fbtes": [
-        589,
-        714
+    "cro\u00fbte": [
+        714,
+        749,
+        755,
+        763,
+        771,
+        1073,
+        1073
     ],
-    "lav\u00e9es": [
-        589,
-        598
+    "laver": [
+        1073
     ],
-    "morg\u00e9es": [
+    "morg\u00e9e": [
         589
     ],
-    "contribue": [
+    "contribuer": [
         589
     ],
     "piquage": [
-        590
-    ],
-    "pratiqu\u00e9e": [
-        590,
-        763
-    ],
-    "bleus": [
-        590,
-        749
-    ],
-    "transper\u00e7ant": [
         590
     ],
     "inoculer": [
@@ -6799,14 +5469,10 @@
     "glaucum": [
         591
     ],
-    "perforations": [
+    "perforation": [
         592
     ],
-    "servent": [
-        592,
-        602
-    ],
-    "couloirs": [
+    "couloir": [
         592
     ],
     "oxyg\u00e8ne": [
@@ -6818,9 +5484,6 @@
     "lhumidit\u00e9": [
         592
     ],
-    "cr\u00e9ent": [
-        592
-    ],
     "ambiance": [
         592,
         603
@@ -6828,26 +5491,12 @@
     "propice": [
         592
     ],
-    "grande": [
-        897
-    ],
     "attention": [
         594,
         597
     ],
-    "retourn\u00e9": [
+    "retourner": [
         596
-    ],
-    "cro\u00fbte": [
-        596,
-        598,
-        711,
-        749,
-        755,
-        763,
-        771,
-        1073,
-        1073
     ],
     "camemberti": [
         596
@@ -6856,8 +5505,7 @@
         597,
         698
     ],
-    "particuli\u00e8re": [
-        597,
+    "particulier": [
         603
     ],
     "lartisan": [
@@ -6866,13 +5514,10 @@
     "poss\u00e9der": [
         597
     ],
-    "bonnes": [
+    "disposition": [
         597
     ],
-    "dispositions": [
-        597
-    ],
-    "sensitives": [
+    "sensitif": [
         597
     ],
     "lobservation": [
@@ -6896,51 +5541,25 @@
     "m\u00e9canisation": [
         597
     ],
-    "possible": [
-        597,
-        674,
-        724,
-        795
-    ],
-    "lav\u00e9e": [
-        598,
-        763,
-        1073
-    ],
-    "p\u00e2tes": [
-        598,
-        675,
-        687,
-        750,
-        760,
-        796,
-        797,
-        816,
-        816,
-        824,
+    "p\u00e2te": [
         834
     ],
-    "press\u00e9es": [
-        598,
-        760,
+    "presser": [
         796
     ],
-    "frott\u00e9es": [
+    "frotter": [
         598
     ],
     "morge": [
         598,
         599
     ],
-    "additionn\u00e9e": [
+    "additionner": [
         598
     ],
     "dalcool": [
         598,
         763
-    ],
-    "entra\u00eene": [
-        599
     ],
     "brevibacterium": [
         739
@@ -6948,17 +5567,10 @@
     "linens": [
         599
     ],
-    "ferment": [
-        599,
-        711
-    ],
     "lexp\u00e9rience": [
         600
     ],
     "domaine": [
-        600
-    ],
-    "d\u00e9terminante": [
         600
     ],
     "h\u00e2loir": [
@@ -6967,22 +5579,13 @@
     "\u00e9lectrique": [
         601
     ],
-    "charger": [
-        601
-    ],
     "ressuyage": [
         601
     ],
-    "m\u00eames": [
-        602
+    "m\u00eame": [
+        434
     ],
     "porosit\u00e9": [
-        602
-    ],
-    "r\u00e9servoir": [
-        602
-    ],
-    "certaine": [
         602
     ],
     "biodiversit\u00e9": [
@@ -6990,10 +5593,7 @@
         718,
         837
     ],
-    "microbienne": [
-        602,
-        711,
-        715,
+    "microbien": [
         718
     ],
     "participer": [
@@ -7002,11 +5602,9 @@
     "titre": [
         602
     ],
-    "consomm\u00e9e": [
-        602
-    ],
-    "r\u00e9ussi": [
-        603
+    "r\u00e9ussir": [
+        603,
+        722
     ],
     "atmosph\u00e9rique": [
         603
@@ -7023,17 +5621,17 @@
     "noter": [
         605
     ],
-    "coproduit": [
+    "coproduire": [
         605
     ],
     "s\u00e9rac": [
         605,
         764
     ],
-    "vosges": [
+    "vosge": [
         605
     ],
-    "alpes": [
+    "alpe": [
         605
     ],
     "recutta": [
@@ -7044,10 +5642,6 @@
     ],
     "ac\u00e9tique": [
         606
-    ],
-    "press\u00e9e": [
-        609,
-        792
     ],
     "beaufort": [
         609,
@@ -7062,10 +5656,6 @@
         640,
         641
     ],
-    "gruy\u00e8res": [
-        619,
-        621
-    ],
     "rompage": [
         618,
         620
@@ -7078,88 +5668,37 @@
         628,
         629
     ],
-    "toile": [
-        628,
-        629
-    ],
-    "op\u00e9rations": [
-        647
-    ],
-    "m\u00e9thodes": [
-        753
-    ],
-    "g\u00e9n\u00e9rales": [
-        648
-    ],
-    "forte": [
-        649,
+    "fort": [
         813
     ],
-    "tradition": [
-        649,
-        650
-    ],
-    "autorisent": [
-        649
-    ],
-    "industrielles": [
-        649,
-        650,
-        675,
+    "prestigieux": [
         986
     ],
-    "pasteuris\u00e9es": [
-        649
-    ],
-    "prestigieuses": [
-        650,
-        986
-    ],
-    "proches": [
-        650
-    ],
-    "arrive": [
+    "refroidir": [
         653
     ],
-    "refroidi": [
+    "pr\u00e9filtrer": [
         653
     ],
-    "pr\u00e9filtr\u00e9": [
-        653
-    ],
-    "test\u00e9": [
+    "tester": [
         654
     ],
-    "analys\u00e9": [
+    "analyser": [
         654
     ],
-    "utiles": [
-        654,
+    "utile": [
         721
     ],
-    "germes": [
-        654,
-        703,
-        705,
-        707,
-        708,
-        721,
+    "germe": [
         850
     ],
-    "marqueurs": [
+    "marqueur": [
         654
     ],
     "pathologie": [
         654
     ],
-    "dantibiotiques": [
-        654
-    ],
-    "microfiltr\u00e9": [
-        654,
-        718
-    ],
-    "\u00e9cr\u00e8m\u00e9": [
+    "dantibiotique": [
         654
     ],
     "compl\u00e8tement": [
@@ -7170,24 +5709,11 @@
     "auquel": [
         657
     ],
-    "ajouter": [
-        657
-    ],
-    "contr\u00f4l\u00e9s": [
-        657
-    ],
     "babeurre": [
         657
     ],
-    "ajo\u00fbts": [
+    "ajo\u00fbt": [
         658
-    ],
-    "\u00e9ventuels": [
-        658
-    ],
-    "permettent": [
-        658,
-        664
     ],
     "moelleux": [
         658,
@@ -7197,31 +5723,14 @@
     "dapporter": [
         658
     ],
-    "sucr\u00e9": [
+    "sucrer": [
         658
     ],
     "exc\u00e8s": [
         658
     ],
-    "transform\u00e9": [
-        658,
-        869
-    ],
     "dacc\u00e9l\u00e9rer": [
         658
-    ],
-    "quantit\u00e9": [
-        659,
-        763,
-        804,
-        927
-    ],
-    "voulue": [
-        659
-    ],
-    "fonction": [
-        659,
-        1101
     ],
     "pr\u00e9cis": [
         659
@@ -7229,14 +5738,13 @@
     "l\u00e9ventail": [
         659
     ],
-    "d\u00e9shydrat\u00e9s": [
+    "d\u00e9shydrater": [
         660
     ],
-    "ultrafiltr\u00e9s": [
+    "ultrafiltr\u00e9": [
         660
     ],
-    "concentr\u00e9s": [
-        660,
+    "concentrer": [
         853
     ],
     "r\u00e9duire": [
@@ -7265,37 +5773,22 @@
     "\u00e9conomique": [
         663
     ],
-    "r\u00e9cup\u00e9rer": [
-        664
-    ],
-    "\u00e9l\u00e9ments": [
-        664
-    ],
     "difficilement": [
         664
     ],
-    "utilisables": [
+    "utilisable": [
         664
     ],
     "dabaisser": [
         664
     ],
-    "co\u00fbts": [
+    "co\u00fbt": [
         664
     ],
-    "revient": [
+    "revenir": [
         664
-    ],
-    "obtient": [
-        665
     ],
     "rentrer": [
-        666
-    ],
-    "vendus": [
-        666
-    ],
-    "\u00e9voquant": [
         666
     ],
     "rustique": [
@@ -7305,21 +5798,21 @@
         666
     ],
     "levain": [
+        725
+    ],
+    "s\u00e9lectionner": [
+        722
+    ],
+    "empr\u00e9surer": [
         669
     ],
-    "s\u00e9lectionn\u00e9": [
-        669
-    ],
-    "empr\u00e9sur\u00e9": [
-        669
-    ],
-    "am\u00e9lior\u00e9e": [
-        669
+    "am\u00e9liorer": [
+        758
     ],
     "lemploi": [
         670
     ],
-    "dacidifiant": [
+    "dacidifier": [
         670
     ],
     "citrique": [
@@ -7332,14 +5825,10 @@
     "denvironnement": [
         671
     ],
-    "microbien": [
-        671,
-        693
-    ],
-    "ajust\u00e9es": [
+    "ajust\u00e9": [
         671
     ],
-    "adjuvants": [
+    "adjuvant": [
         674
     ],
     "fonte": [
@@ -7369,26 +5858,18 @@
     "sensation": [
         674
     ],
-    "jug\u00e9e": [
-        675
-    ],
-    "fondues": [
-        675,
-        824,
-        834
+    "fondre": [
+        1063
     ],
     "am\u00e9rique": [
         678,
         683,
         986
     ],
-    "affermis": [
+    "affermir": [
         678
     ],
-    "ajoutant": [
-        678
-    ],
-    "\u00e9paississants": [
+    "\u00e9paississant": [
         678
     ],
     "gomme": [
@@ -7411,26 +5892,23 @@
     "lointain": [
         680
     ],
-    "arrivent": [
-        680
-    ],
     "demprunter": [
         680
     ],
-    "pouss\u00e9": [
+    "pousser": [
         683
     ],
     "pratiquement": [
         683,
         869
     ],
-    "broy\u00e9": [
+    "broyer": [
         683
     ],
-    "agit\u00e9": [
+    "agiter": [
         683
     ],
-    "automatis\u00e9": [
+    "automatiser": [
         683
     ],
     "injection": [
@@ -7439,51 +5917,37 @@
     "lhomog\u00e9n\u00e9isation": [
         683
     ],
-    "humides": [
-        683
+    "humide": [
+        683,
+        782
     ],
     "tiers": [
         683,
         983
     ],
-    "autorisant": [
-        683
-    ],
-    "transferts": [
+    "transfert": [
         683
     ],
     "pompe": [
         683
     ],
-    "semifluides": [
-        683
-    ],
-    "permettant": [
+    "semifluide": [
         683,
-        725
+        687
     ],
     "consid\u00e9rablement": [
         683
     ],
-    "\u00e9loign\u00e9": [
+    "\u00e9loigner": [
         686
     ],
     "r\u00e9incorporation": [
         687
     ],
-    "acc\u00e9l\u00e9r\u00e9": [
+    "fil\u00e9": [
         687
     ],
-    "pr\u00e9sures": [
-        687
-    ],
-    "sp\u00e9ciales": [
-        687
-    ],
-    "fil\u00e9es": [
-        687
-    ],
-    "provoquant": [
+    "provoquer": [
         687
     ],
     "fusion": [
@@ -7496,16 +5960,11 @@
     "liquide": [
         687
     ],
-    "chaude": [
+    "chaud": [
+        687,
         687
     ],
     "homog\u00e9n\u00e9isation": [
-        687
-    ],
-    "semifluide": [
-        687
-    ],
-    "chaud": [
         687
     ],
     "daffinage": [
@@ -7513,31 +5972,28 @@
         701,
         718
     ],
-    "usines": [
-        687
-    ],
-    "robotis\u00e9es": [
+    "robotiser": [
         687
     ],
     "dutilisation": [
         687
     ],
-    "ais\u00e9e": [
+    "ais\u00e9": [
         687
     ],
-    "tranches": [
+    "tranche": [
         687
     ],
-    "pr\u00e9d\u00e9coup\u00e9es": [
+    "pr\u00e9d\u00e9couper": [
+        875
+    ],
+    "tartinable": [
         687
     ],
-    "tartinables": [
+    "fondant": [
         687
     ],
-    "fondantes": [
-        687
-    ],
-    "miettes": [
+    "miette": [
         687
     ],
     "coulures": [
@@ -7558,25 +6014,19 @@
     "lunivers": [
         688
     ],
-    "pizzas": [
-        688
-    ],
-    "sandwicheries": [
-        688
-    ],
-    "cr\u00eaperies": [
+    "cr\u00eaperie": [
         688
     ],
     "encas": [
         688
     ],
-    "ap\u00e9ritifs": [
+    "ap\u00e9ritif": [
         688
     ],
     "restauration": [
         688
     ],
-    "collective": [
+    "collectif": [
         688
     ],
     "groupe": [
@@ -7603,7 +6053,7 @@
     "gerle": [
         695
     ],
-    "salers": [
+    "saler": [
         695
     ],
     "estive": [
@@ -7612,10 +6062,7 @@
     "tonneau": [
         696
     ],
-    "conserve": [
-        696
-    ],
-    "transmet": [
+    "transmettre": [
         696
     ],
     "cuv\u00e9e": [
@@ -7640,17 +6087,11 @@
     "\u00e9cosyst\u00e8me": [
         698
     ],
-    "peupl\u00e9": [
+    "peupler": [
         698
     ],
-    "levures": [
+    "levure": [
         732
-    ],
-    "champignons": [
-        731
-    ],
-    "vivent": [
-        698
     ],
     "chacun": [
         698
@@ -7677,38 +6118,19 @@
     "digestion": [
         699
     ],
-    "microbes": [
-        699,
-        721,
+    "microbe": [
         724
     ],
     "sinvitent": [
         699
     ],
-    "nombreux": [
-        700,
-        857,
-        1036
-    ],
-    "avons": [
-        700
-    ],
-    "d\u00e9crit": [
-        700
-    ],
-    "esp\u00e8ces": [
-        700,
-        701,
+    "esp\u00e8ce": [
         724
     ],
     "contenir": [
-        701,
-        862
+        1096
     ],
-    "microbiennes": [
-        701
-    ],
-    "apport\u00e9es": [
+    "apporter": [
         701
     ],
     "microbiote": [
@@ -7717,20 +6139,12 @@
         820,
         837
     ],
-    "salles": [
-        701
-    ],
-    "conserv\u00e9s": [
-        703,
-        754,
-        758
-    ],
     "sanitaire": [
         703,
         708,
         711
     ],
-    "satisfaisante": [
+    "satisfaisant": [
         703
     ],
     "distinguer": [
@@ -7739,15 +6153,8 @@
     "outre": [
         703
     ],
-    "impliqu\u00e9s": [
+    "type": [
         703
-    ],
-    "types": [
-        703
-    ],
-    "bact\u00e9rie": [
-        705,
-        713
     ],
     "listeria": [
         705,
@@ -7755,10 +6162,7 @@
         718,
         845
     ],
-    "monocytogenes": [
-        705,
-        711,
-        718,
+    "monocytogene": [
         845
     ],
     "responsable": [
@@ -7770,12 +6174,12 @@
     "list\u00e9riose": [
         705
     ],
-    "absents": [
+    "absent": [
         705
     ],
-    "indicateurs": [
-        707,
-        716
+    "indicateur": [
+        716,
+        813
     ],
     "dhygi\u00e8ne": [
         707,
@@ -7790,7 +6194,7 @@
     "marinilactibacillus": [
         707
     ],
-    "psychrotolerans": [
+    "psychrotoleran": [
         707
     ],
     "arthrobacter": [
@@ -7821,16 +6225,8 @@
     "dextrapoler": [
         708
     ],
-    "bact\u00e9riologique": [
-        708
-    ],
-    "chercheurs": [
+    "chercheur": [
         710
-    ],
-    "\u00e9tude": [
-        711,
-        857,
-        973
     ],
     "diversit\u00e9": [
         711,
@@ -7844,28 +6240,13 @@
     "s\u00e9curit\u00e9": [
         711
     ],
-    "groupes": [
-        711,
-        713,
-        1028,
-        1036
-    ],
-    "microbiens": [
-        711
-    ],
-    "pr\u00e9sents": [
-        711
-    ],
     "naturellement": [
         711
     ],
     "sautoprot\u00e9ger": [
         711
     ],
-    "compar\u00e9": [
-        711
-    ],
-    "commercial": [
+    "comparer": [
         711
     ],
     "\u00e9milie": [
@@ -7883,55 +6264,42 @@
     "catalase": [
         713
     ],
-    "positive": [
-        713
-    ],
     "n\u00e9gatif": [
-        713
-    ],
-    "issue": [
         713
     ],
     "inhibiteur": [
         713
     ],
-    "cultiv\u00e9e": [
+    "cultiver": [
         713
     ],
-    "pr\u00e9l\u00e8vements": [
-        714
-    ],
-    "effectu\u00e9s": [
+    "pr\u00e9l\u00e8vement": [
         714
     ],
     "suite": [
         714
     ],
-    "appliqu\u00e9s": [
-        714
-    ],
-    "r\u00e9sulta": [
-        715
-    ],
     "dynamique": [
         715
     ],
-    "niveaux": [
-        715
+    "niveau": [
+        715,
+        879
     ],
-    "lactobacilles": [
+    "lactobacille": [
         715
     ],
     "leuconostocs": [
         715
     ],
-    "cultivables": [
+    "cultivable": [
         715
     ],
-    "\u00e9lev\u00e9s": [
-        715
+    "\u00e9lev\u00e9": [
+        715,
+        808
     ],
-    "cit\u00e9s": [
+    "citer": [
         716
     ],
     "cidessus": [
@@ -7940,11 +6308,8 @@
     "perte": [
         718
     ],
-    "favorise": [
-        718
-    ],
-    "d\u00e9veloppe": [
-        718
+    "d\u00e9velopper": [
+        771
     ],
     "\u00e9volution": [
         720
@@ -7952,13 +6317,10 @@
     "biotechnologie": [
         720
     ],
-    "immenses": [
+    "immense": [
         721
     ],
     "progr\u00e8s": [
-        721
-    ],
-    "r\u00e9alis\u00e9s": [
         721
     ],
     "lhygi\u00e8ne": [
@@ -7974,26 +6336,10 @@
     "consid\u00e9rable": [
         721
     ],
-    "r\u00e9ussir": [
-        722
-    ],
-    "ensemencer": [
-        722
-    ],
-    "s\u00e9lectionn\u00e9s": [
-        722
-    ],
-    "levains": [
-        723,
-        725
-    ],
-    "devenue": [
-        723
-    ],
     "industrie": [
         723
     ],
-    "go\u00fbts": [
+    "go\u00fbt": [
         724
     ],
     "s\u00e9quen\u00e7age": [
@@ -8009,38 +6355,29 @@
     "dapprocher": [
         725
     ],
-    "r\u00e9elle": [
-        725,
+    "r\u00e9el": [
         769
     ],
-    "devenus": [
-        725,
-        790
-    ],
-    "complexes": [
-        725,
+    "complexe": [
         803
     ],
     "mieux": [
         725
     ],
-    "adapt\u00e9s": [
-        725
+    "adapter": [
+        796
     ],
     "retrouver": [
-        725
+        1047
     ],
     "typicit\u00e9": [
         725,
         840
     ],
-    "rencontr\u00e9s": [
-        728
-    ],
     "dapr\u00e8s": [
         729
     ],
-    "ouvrages": [
+    "ouvrage": [
         729
     ],
     "geotrichum": [
@@ -8055,7 +6392,7 @@
     "candida": [
         732
     ],
-    "saccharomyces": [
+    "saccharomyce": [
         732
     ],
     "yarrowia": [
@@ -8076,10 +6413,10 @@
     "streptococcus": [
         737
     ],
-    "staphylocoques": [
+    "staphylocoque": [
         739
     ],
-    "coryn\u00e9formes": [
+    "coryn\u00e9forme": [
         739
     ],
     "micrococcus": [
@@ -8098,28 +6435,19 @@
     "chap\u00eetre": [
         747
     ],
-    "persill\u00e9s": [
-        749
-    ],
-    "emp\u00eachent": [
-        749
+    "emp\u00eacher": [
+        749,
+        778
     ],
     "prolif\u00e9ration": [
         749,
         778
     ],
-    "ind\u00e9sirables": [
-        749,
-        778,
+    "ind\u00e9sirable": [
         844
     ],
     "remarquer": [
         750
-    ],
-    "fra\u00eeches": [
-        750,
-        816,
-        834
     ],
     "caillebotte": [
         750
@@ -8130,10 +6458,10 @@
     "aucun": [
         750
     ],
-    "crit\u00e8res": [
+    "crit\u00e8re": [
         750
     ],
-    "alternatives": [
+    "alternatif": [
         753
     ],
     "halloumi": [
@@ -8141,7 +6469,7 @@
         754,
         976
     ],
-    "fum\u00e9s": [
+    "fumer": [
         754
     ],
     "tcherkesse": [
@@ -8150,14 +6478,7 @@
     "scamorza": [
         754
     ],
-    "cendr\u00e9s": [
-        754
-    ],
-    "sal\u00e9s": [
-        754
-    ],
-    "s\u00e9ch\u00e9s": [
-        754,
+    "cendr\u00e9": [
         754
     ],
     "lombre": [
@@ -8168,12 +6489,6 @@
     ],
     "d\u00e9sertique": [
         754
-    ],
-    "feuilles": [
-        754,
-        758,
-        759,
-        881
     ],
     "menthe": [
         754
@@ -8187,9 +6502,9 @@
         977
     ],
     "variante": [
-        754
+        986
     ],
-    "\u00e9pices": [
+    "\u00e9pice": [
         754
     ],
     "chenklich": [
@@ -8209,26 +6524,18 @@
         796,
         817
     ],
-    "huil\u00e9e": [
+    "huiler": [
         755
     ],
-    "ch\u00e2taigners": [
-        758
+    "ch\u00e2taigner": [
+        758,
+        758,
+        759
     ],
     "g\u00e2tine": [
         758
     ],
-    "poitevine": [
-        758
-    ],
-    "ch\u00e2taigner": [
-        758,
-        759
-    ],
-    "am\u00e9liorant": [
-        758
-    ],
-    "perdure": [
+    "perdurer": [
         758
     ],
     "mothais": [
@@ -8240,14 +6547,13 @@
     "banon": [
         759
     ],
-    "tremp\u00e9": [
+    "tremper": [
         759
     ],
     "raisin": [
         759
     ],
-    "cuites": [
-        760,
+    "cuire": [
         816
     ],
     "babybel": [
@@ -8257,13 +6563,14 @@
         760,
         1073
     ],
-    "noire": [
+    "noir": [
+        371,
+        383
+    ],
+    "pyr\u00e9n\u00e9e": [
         760
     ],
-    "pyr\u00e9n\u00e9es": [
-        760
-    ],
-    "enrob\u00e9es": [
+    "enrober": [
         760
     ],
     "paraffine": [
@@ -8285,21 +6592,17 @@
     "dur\u00e9e": [
         763
     ],
-    "forts": [
-        763,
-        790
-    ],
     "porto": [
         763
     ],
-    "l\u00e9poisses": [
+    "l\u00e9poisse": [
         763
     ],
     "bourgogne": [
         763
     ],
     "ciron": [
-        768
+        771
     ],
     "taille": [
         769
@@ -8310,25 +6613,19 @@
     "contact": [
         771
     ],
-    "cirons": [
-        771
-    ],
     "lacarien": [
         771
     ],
     "acarus": [
         771
     ],
-    "d\u00e9veloppent": [
-        771
-    ],
-    "artisons": [
+    "artison": [
         771
     ],
     "mimolette": [
         771
     ],
-    "dasticots": [
+    "dasticot": [
         771
     ],
     "mouche": [
@@ -8364,13 +6661,7 @@
     "g\u00e9n\u00e9raliser": [
         776
     ],
-    "st\u00e9rilis\u00e9s": [
-        777
-    ],
-    "emp\u00eacher": [
-        778
-    ],
-    "trait\u00e9s": [
+    "traiter": [
         778
     ],
     "natamycine": [
@@ -8385,10 +6676,6 @@
     "fa\u00e7on": [
         782
     ],
-    "conserver": [
-        782,
-        792
-    ],
     "parfaire": [
         782
     ],
@@ -8398,13 +6685,10 @@
     "sombre": [
         782
     ],
-    "humide": [
-        782
-    ],
     "labri": [
         782
     ],
-    "insectes": [
+    "insecte": [
         782
     ],
     "cloche": [
@@ -8423,28 +6707,19 @@
     "renouvellement": [
         783
     ],
-    "am\u00e8nera": [
-        783
-    ],
     "r\u00e9sultat": [
-        783
-    ],
-    "diff\u00e9rent": [
-        783
-    ],
-    "blancs": [
-        784
+        859
     ],
     "herm\u00e9tiquement": [
         787
     ],
-    "d\u00e9lais": [
+    "d\u00e9lai": [
         787
     ],
     "vente": [
         787
     ],
-    "ma\u00eetris\u00e9s": [
+    "ma\u00eetriser": [
         787
     ],
     "sav\u00e9rer": [
@@ -8453,13 +6728,8 @@
     "dommageable": [
         788
     ],
-    "molle": [
-        788,
-        1073,
+    "mou": [
         1073
-    ],
-    "derniers": [
-        789
     ],
     "pr\u00e9f\u00e9rer": [
         789
@@ -8470,13 +6740,10 @@
     "charlotte": [
         789
     ],
-    "repli\u00e9": [
+    "replier": [
         789
     ],
     "herm\u00e9tique": [
-        790
-    ],
-    "pass\u00e9s": [
         790
     ],
     "milieu": [
@@ -8489,33 +6756,16 @@
     "ana\u00e9robie": [
         790
     ],
-    "modifi\u00e9": [
+    "initial": [
         790
     ],
-    "leurs": [
-        790,
-        791,
-        998
-    ],
-    "qualit\u00e9s": [
-        833
-    ],
-    "organoleptiques": [
-        790
-    ],
-    "initiales": [
-        790
-    ],
-    "piquants": [
+    "piquant": [
         790
     ],
     "retour": [
         791
     ],
     "recouvrer": [
-        791
-    ],
-    "caract\u00e8res": [
         791
     ],
     "originels": [
@@ -8528,103 +6778,55 @@
     "frigo": [
         792
     ],
-    "semaine": [
+    "respecter": [
         792
     ],
-    "respectant": [
-        792
-    ],
-    "pr\u00e9cautions": [
+    "pr\u00e9caution": [
         792
     ],
     "surgeler": [
         795
     ],
-    "d\u00e9passer": [
-        795,
-        859,
-        859
-    ],
-    "adapt\u00e9": [
-        796
-    ],
     "gouda": [
+        894,
         894,
         1101
     ],
-    "d\u00e9conseill\u00e9": [
-        797
+    "d\u00e9conseiller": [
+        808
     ],
     "congeler": [
         797
     ],
-    "molles": [
-        797,
-        816
-    ],
-    "nutritionnels": [
-        800
-    ],
-    "constitu\u00e9": [
-        802
-    ],
-    "concentr\u00e9": [
-        802
-    ],
     "\u00e9vaporation": [
         802
     ],
-    "partielle": [
+    "partiel": [
         802
+    ],
+    "nutritif": [
+        802
+    ],
+    "celui": [
+        802
+    ],
+    "substance": [
+        803
     ],
     "nutritive": [
-        802
-    ],
-    "celle": [
-        802
-    ],
-    "concentr\u00e9e": [
-        802
-    ],
-    "apparaitre": [
         803
     ],
-    "substances": [
+    "amin\u00e9": [
         803
     ],
-    "nutritives": [
-        803
-    ],
-    "amin\u00e9s": [
-        803
-    ],
-    "sucres": [
-        803,
-        804
-    ],
-    "vitamines": [
-        803,
-        805
-    ],
-    "pr\u00e9sentes": [
-        803
-    ],
-    "contiennent": [
-        804,
-        820,
-        869
-    ],
-    "repr\u00e9sentent": [
+    "sucre": [
         804
     ],
     "\u00e9nergisant": [
         804
     ],
-    "complet": [
-        804
-    ],
-    "cultures": [
-        804
+    "culture": [
+        1042
     ],
     "pilier": [
         804
@@ -8640,7 +6842,7 @@
         860,
         863
     ],
-    "min\u00e9raux": [
+    "min\u00e9ral": [
         805
     ],
     "n\u00e9faste": [
@@ -8649,19 +6851,13 @@
     "surconsommation": [
         808
     ],
-    "d\u00e9conseill\u00e9e": [
+    "personne": [
         808
     ],
-    "personnes": [
-        808,
-        808,
-        808,
+    "sensible": [
         808
     ],
-    "sensibles": [
-        808
-    ],
-    "diab\u00e9tiques": [
+    "diab\u00e9tique": [
         808
     ],
     "surpoids": [
@@ -8685,9 +6881,6 @@
     "agroalimentaire": [
         812
     ],
-    "articles": [
-        867
-    ],
     "cerin": [
         812
     ],
@@ -8701,7 +6894,7 @@
     "assimilable": [
         812
     ],
-    "survenue": [
+    "survenir": [
         813
     ],
     "fracture": [
@@ -8710,21 +6903,10 @@
     "f\u00e9mur": [
         813
     ],
-    "indicateur": [
-        813
-    ],
     "dost\u00e9oporose": [
         813
     ],
-    "restent": [
-        813
-    ],
-    "importants": [
-        813,
-        816
-    ],
-    "scandinaves": [
-        813,
+    "scandinave": [
         973
     ],
     "malgr\u00e9": [
@@ -8733,29 +6915,19 @@
     "sanguin": [
         813
     ],
-    "sup\u00e9rieur": [
-        813
-    ],
     "su\u00e8de": [
         962,
         962,
         1011,
         1011
     ],
-    "\u00e9goutt\u00e9s": [
-        816,
-        869
+    "\u00e9goutter": [
+        973
     ],
-    "pr\u00e9sentent": [
-        816
-    ],
-    "vieillies": [
+    "vieilli": [
         816
     ],
     "d\u00e9faut": [
-        816
-    ],
-    "acidifiants": [
         816
     ],
     "lorganisme": [
@@ -8764,56 +6936,40 @@
     "lindice": [
         817
     ],
-    "traduit": [
-        817,
+    "traduire": [
         896
     ],
-    "vari\u00e9e": [
-        820
+    "varier": [
+        827
     ],
     "parvenir": [
         820
     ],
-    "intacte": [
+    "intact": [
         820
     ],
     "lintestin": [
         820
     ],
-    "probiotiques": [
+    "probiotique": [
         820
     ],
-    "varier": [
-        823
-    ],
     "\u00e9norm\u00e9ment": [
-        823
-    ],
-    "suivant": [
         823
     ],
     "cuisson": [
         823
     ],
-    "d\u00e9quid\u00e9s": [
+    "d\u00e9quider": [
         823
-    ],
-    "bufflonne": [
-        823
-    ],
-    "fran\u00e7aises": [
-        824
     ],
     "di\u00e9t\u00e9tique": [
         824
     ],
-    "bienfaits": [
+    "bienfait": [
         827
     ],
-    "m\u00e9faits": [
-        827
-    ],
-    "varient": [
+    "m\u00e9fait": [
         827
     ],
     "fortement": [
@@ -8827,20 +6983,13 @@
     "direction": [
         827
     ],
-    "claire": [
+    "clair": [
         827
-    ],
-    "rappeler": [
-        828
-    ],
-    "soci\u00e9t\u00e9s": [
-        828,
-        829
     ],
     "dabondance": [
         828
     ],
-    "pastorales": [
+    "pastoral": [
         829
     ],
     "deurope": [
@@ -8849,48 +6998,31 @@
     "moyen\u00e2ge": [
         829
     ],
-    "ch\u00e8vre": [
-        829,
-        1073
-    ],
-    "repr\u00e9sentait": [
-        829
-    ],
     "prot\u00e9ique": [
         829
     ],
     "m\u00e9diocre": [
         829
     ],
-    "paysan": [
-        829
-    ],
     "pauvre": [
         829
     ],
-    "essentielle": [
-        830
-    ],
-    "populations": [
-        830,
+    "population": [
         976
     ],
-    "v\u00e9g\u00e9tariennes": [
+    "v\u00e9g\u00e9tarien": [
         830
     ],
     "dinde": [
         830
     ],
-    "gustatives": [
+    "gustatif": [
         833
     ],
     "d\u00e9gustation": [
         834
     ],
-    "excepte": [
-        834
-    ],
-    "optimales": [
+    "excepter": [
         834
     ],
     "linstitut": [
@@ -8902,60 +7034,37 @@
     "sarde": [
         837
     ],
-    "portant": [
-        837
-    ],
     "compilation": [
         837
     ],
-    "recherche": [
+    "conclure": [
         837
     ],
-    "concluait": [
+    "traitement": [
         837
     ],
-    "traitements": [
-        837,
+    "thermique": [
         837
     ],
-    "thermiques": [
+    "amenuir": [
         837
     ],
-    "amenuisaient": [
-        837
-    ],
-    "diff\u00e9rences": [
-        837
-    ],
-    "appelait": [
-        837
-    ],
-    "reprendre": [
+    "diff\u00e9rence": [
         837
     ],
     "consid\u00e9ration": [
         837
     ],
-    "telles": [
+    "tel": [
         837
     ],
-    "producteur": [
-        837,
-        925
-    ],
-    "prairies": [
+    "prairie": [
         837
     ],
     "lauthenticit\u00e9": [
         840
     ],
-    "principales": [
-        840
-    ],
-    "raisons": [
-        840
-    ],
-    "contaminants": [
+    "contaminant": [
         843
     ],
     "dordre": [
@@ -8979,7 +7088,7 @@
     "escherichia": [
         845
     ],
-    "d\u00e9volus": [
+    "d\u00e9volu": [
         848
     ],
     "lobjet": [
@@ -8988,7 +7097,7 @@
     "obligatoiren": [
         848
     ],
-    "focalisait": [
+    "focaliser": [
         849
     ],
     "attente": [
@@ -8997,81 +7106,60 @@
     "bilan": [
         850
     ],
-    "appara\u00eetre": [
-        850
-    ],
-    "toxines": [
+    "toxine": [
         850
     ],
     "faible": [
         850
     ],
-    "potentiels": [
+    "fr\u00e9quent": [
         853
     ],
-    "fr\u00e9quents": [
-        853
-    ],
-    "viandes": [
-        853
-    ],
-    "poissons": [
-        853,
+    "poisson": [
+        861,
         861
     ],
-    "m\u00e9taux": [
+    "lourd": [
         853
     ],
-    "lourds": [
+    "inhaler": [
         853
     ],
-    "inhal\u00e9s": [
-        853
-    ],
-    "absorb\u00e9s": [
+    "absorber": [
         853
     ],
     "nourriture": [
         853,
         983
     ],
-    "retrouv\u00e9s": [
-        853,
-        856
-    ],
-    "radionucl\u00e9ides": [
+    "radionucl\u00e9ide": [
         853
     ],
-    "essais": [
+    "essai": [
         853
     ],
-    "nucl\u00e9aires": [
-        853,
+    "nucl\u00e9aire": [
         853
     ],
-    "retomb\u00e9es": [
+    "retomb\u00e9e": [
         853
     ],
-    "radioactives": [
+    "radioactif": [
         853
     ],
-    "daccidents": [
+    "daccident": [
         853
     ],
-    "trouver": [
-        856
-    ],
-    "polluants": [
-        856,
+    "polluant": [
         857
     ],
-    "liposolubles": [
+    "liposoluble": [
         856
     ],
-    "r\u00e9sidus": [
+    "r\u00e9sidu": [
         856
     ],
-    "pesticides": [
+    "pesticide": [
         856
     ],
     "organochlor\u00e9s": [
@@ -9082,13 +7170,7 @@
         856,
         973
     ],
-    "contamin\u00e9": [
-        857
-    ],
-    "furanes": [
-        857
-    ],
-    "port\u00e9": [
+    "furane": [
         857
     ],
     "sp\u00e9cifiquement": [
@@ -9097,34 +7179,26 @@
     "nonbio": [
         857
     ],
-    "publi\u00e9e": [
+    "publier": [
         857
     ],
-    "confirmant": [
+    "limite": [
         857
     ],
-    "limites": [
-        857
-    ],
-    "r\u00e9glementaires": [
-        857
-    ],
-    "fix\u00e9es": [
-        857
-    ],
-    "d\u00e9passaient": [
+    "r\u00e9glementaire": [
+        857,
         858
+    ],
+    "fixer": [
+        857
     ],
     "seuil": [
         858
     ],
-    "r\u00e9glementaire": [
+    "picogramme": [
         858
     ],
-    "picogrammes": [
-        858
-    ],
-    "d\u00e9quivalent": [
+    "d\u00e9quivaler": [
         858
     ],
     "toxique": [
@@ -9133,14 +7207,7 @@
     "gramme": [
         858
     ],
-    "consommateur": [
-        859,
-        980
-    ],
-    "contient": [
-        859
-    ],
-    "journali\u00e8re": [
+    "journalier": [
         859
     ],
     "admissible": [
@@ -9159,42 +7226,16 @@
     "enfant": [
         859
     ],
-    "r\u00e9sultats": [
-        859
-    ],
     "extr\u00eamement": [
         859
     ],
-    "inqui\u00e9tants": [
+    "inqui\u00e9tant": [
         859
     ],
-    "poisson": [
-        859,
-        860,
+    "fournir": [
         861
     ],
-    "consid\u00e9r\u00e9": [
-        859,
-        973,
-        976,
-        1069
-    ],
-    "totale": [
-        860
-    ],
-    "confirm\u00e9": [
-        860
-    ],
-    "importante": [
-        860
-    ],
-    "fournies": [
-        861
-    ],
-    "nondioxines": [
-        861
-    ],
-    "viennent": [
+    "nondioxine": [
         861
     ],
     "jaune": [
@@ -9203,14 +7244,11 @@
     "fumage": [
         863
     ],
-    "canc\u00e9rig\u00e8nes": [
+    "canc\u00e9rig\u00e8ne": [
         863
     ],
     "tol\u00e9rance": [
         866
-    ],
-    "d\u00e9taill\u00e9s": [
-        867
     ],
     "lactoseomnipr\u00e9sence": [
         867
@@ -9218,19 +7256,10 @@
     "intol\u00e9rance": [
         867
     ],
-    "traditionnels": [
-        869
-    ],
-    "\u00e9limin\u00e9": [
-        869
-    ],
     "forc\u00e9ment": [
         870
     ],
-    "transformations": [
-        870
-    ],
-    "r\u00e9incorpore": [
+    "r\u00e9incorporer": [
         870
     ],
     "\u00e9conomie": [
@@ -9239,42 +7268,22 @@
     "gondole": [
         875
     ],
-    "pr\u00e9d\u00e9coup\u00e9s": [
-        875
-    ],
     "commer\u00e7antfromager": [
         877
     ],
-    "parisienne": [
-        877
-    ],
-    "agricoles": [
+    "agricole": [
         879
     ],
-    "niveau": [
-        879
-    ],
-    "mondial": [
-        879,
-        925,
-        927,
-        994,
-        1030
-    ],
-    "pass\u00e9e": [
+    "million": [
         880
     ],
-    "millions": [
-        880,
-        880
-    ],
-    "cumul\u00e9e": [
+    "cumuler": [
         881
     ],
-    "graines": [
+    "graine": [
         881
     ],
-    "f\u00e8ves": [
+    "f\u00e8ve": [
         881
     ],
     "cacao": [
@@ -9283,20 +7292,13 @@
     "tabac": [
         881
     ],
-    "\u00e9missions": [
+    "\u00e9mission": [
         882
     ],
     "serre": [
         882
     ],
-    "produites": [
-        882,
-        896
-    ],
-    "mondiaux": [
-        883
-    ],
-    "suivis": [
+    "suivre": [
         883
     ],
     "litalie": [
@@ -9312,13 +7314,7 @@
     "campana": [
         888
     ],
-    "sp\u00e9cialit\u00e9": [
-        888
-    ],
     "slogan": [
-        889
-    ],
-    "publicitaire": [
         889
     ],
     "promouvoir": [
@@ -9343,24 +7339,16 @@
     "implicitement": [
         889
     ],
-    "propres": [
+    "propre": [
         890
     ],
-    "productions": [
-        890,
-        986
-    ],
-    "goudas": [
-        894
-    ],
-    "compterait": [
+    "compter": [
         895
     ],
-    "situe": [
+    "situer": [
         896
     ],
-    "vari\u00e9t\u00e9s": [
-        896,
+    "vari\u00e9t\u00e9": [
         898
     ],
     "ladage": [
@@ -9372,10 +7360,10 @@
     "grandebretagne": [
         897
     ],
-    "alpages": [
+    "alpage": [
         898
     ],
-    "ouverte": [
+    "ouvrir": [
         898
     ],
     "paysproduction": [
@@ -9469,12 +7457,10 @@
         971,
         971
     ],
-    "largentine": [
-        915,
+    "largentin": [
         969
     ],
-    "argentine": [
-        915,
+    "argentin": [
         969
     ],
     "lespagne": [
@@ -9517,31 +7503,17 @@
         922,
         922
     ],
-    "\u00e9changes": [
+    "international": [
         924
     ],
-    "internationaux": [
-        924
-    ],
-    "premier": [
-        925,
-        927,
-        927,
-        932,
-        1030
-    ],
-    "occupent": [
+    "occuper": [
         926
     ],
-    "marginale": [
+    "marginal": [
         926
     ],
-    "exportations": [
+    "exportation": [
         926
-    ],
-    "mondiales": [
-        926,
-        998
     ],
     "lessentiel": [
         926
@@ -9550,17 +7522,12 @@
         926
     ],
     "exportateur": [
-        927,
-        932
+        935
     ],
     "tandis": [
         927
     ],
-    "exportateurs": [
-        928,
-        935
-    ],
-    "orient\u00e9e": [
+    "orienter": [
         928
     ],
     "lexport": [
@@ -9569,8 +7536,7 @@
     "respectivement": [
         928
     ],
-    "export\u00e9e": [
-        928,
+    "exporter": [
         929
     ],
     "importateur": [
@@ -9579,8 +7545,7 @@
     "uniquement": [
         935
     ],
-    "dollars": [
-        936,
+    "dollar": [
         1038
     ],
     "belgique": [
@@ -9602,7 +7567,7 @@
     "carpentras": [
         949
     ],
-    "kilogrammes": [
+    "kilogramme": [
         952
     ],
     "habitant": [
@@ -9644,10 +7609,7 @@
         972,
         972
     ],
-    "nordiques": [
-        973
-    ],
-    "consid\u00e9r\u00e9s": [
+    "nordique": [
         973
     ],
     "maintenant": [
@@ -9672,42 +7634,30 @@
     "yaourt": [
         973
     ],
-    "passe": [
-        973
-    ],
-    "\u00e9goutt\u00e9": [
-        973
-    ],
     "graviera": [
         976
     ],
     "laliment": [
         976
     ],
-    "rurales": [
+    "rural": [
         976
     ],
-    "balkans": [
+    "Balkans": [
         976
     ],
     "essentiellement": [
         976
     ],
-    "autoconsomm\u00e9": [
+    "autoconsommer": [
         976
     ],
-    "troisquarts": [
+    "troisquart": [
         977
     ],
     "lemmental": [
         979,
         1062
-    ],
-    "consomm\u00e9s": [
-        979
-    ],
-    "important": [
-        980
     ],
     "rapide": [
         981
@@ -9727,34 +7677,28 @@
     "lexpansion": [
         986
     ],
-    "concern\u00e9": [
-        986
-    ],
-    "variantes": [
-        986
-    ],
     "cheddar": [
         986
     ],
     "emmental": [
         986
     ],
-    "typ\u00e9s": [
+    "typer": [
         986
     ],
     "significativement": [
         986
     ],
-    "identifi\u00e9es": [
+    "identifier": [
         986
     ],
     "terroir": [
         986
     ],
-    "elles": [
+    "il": [
         987
     ],
-    "import\u00e9es": [
+    "importer": [
         987
     ],
     "ditalie": [
@@ -9772,10 +7716,10 @@
     "vevey": [
         994
     ],
-    "a\u00e9rienne": [
+    "a\u00e9rien": [
         996
     ],
-    "deutsches": [
+    "deutsche": [
         996
     ],
     "milchkontor": [
@@ -9784,27 +7728,8 @@
     "coesfeld": [
         996
     ],
-    "laiti\u00e8res": [
-        998,
-        998
-    ],
-    "chiffre": [
-        998,
-        1032,
-        1033,
-        1034,
+    "daffaire": [
         1038
-    ],
-    "daffaires": [
-        998,
-        1002,
-        1032,
-        1033,
-        1034,
-        1038
-    ],
-    "activit\u00e9s": [
-        998
     ],
     "rangentreprisepayschiffre": [
         1002
@@ -9889,28 +7814,16 @@
     "m\u00fcllerdrapeau": [
         1027
     ],
-    "deuros": [
-        1030,
-        1032,
-        1033,
+    "deuro": [
         1034
     ],
-    "revendique": [
-        1030
-    ],
-    "fabricant": [
-        1030
-    ],
-    "salari\u00e9s": [
-        1030,
-        1032,
-        1033,
+    "salari\u00e9": [
         1034
     ],
-    "sites": [
+    "site": [
         1030
     ],
-    "r\u00e9partis": [
+    "r\u00e9partir": [
         1030
     ],
     "bongrain": [
@@ -9931,23 +7844,19 @@
     "saputo": [
         1038
     ],
-    "qu\u00e9b\u00e9coise": [
+    "qu\u00e9b\u00e9cois": [
         1038
     ],
-    "culture": [
-        1042
-    ],
-    "offrandes": [
-        1043,
+    "offrande": [
         1053
     ],
-    "religieuses": [
+    "religieux": [
         1043
     ],
-    "divinit\u00e9s": [
+    "divinit\u00e9": [
         1044
     ],
-    "haute": [
+    "haut": [
         1044
     ],
     "antiquit\u00e9": [
@@ -9962,7 +7871,7 @@
     "d\u00e9esse": [
         1045
     ],
-    "m\u00e9sopotamienne": [
+    "m\u00e9sopotamien": [
         1045
     ],
     "lamour": [
@@ -9971,25 +7880,22 @@
     "guerre": [
         1045
     ],
-    "v\u00e9n\u00e9r\u00e9e": [
+    "v\u00e9n\u00e9rer": [
         1045
     ],
-    "akkadiens": [
+    "akkadien": [
         1045
     ],
-    "babyloniens": [
+    "babylonien": [
         1045
     ],
-    "assyriens": [
-        1045
-    ],
-    "nomm\u00e9e": [
+    "assyrien": [
         1045
     ],
     "astart\u00e9": [
         1045
     ],
-    "ph\u00e9niciens": [
+    "ph\u00e9nicien": [
         1045
     ],
     "tanit": [
@@ -9998,26 +7904,20 @@
     "carthage": [
         1045
     ],
-    "tablettes": [
+    "tablette": [
         1046
     ],
-    "comptes": [
-        1046
-    ],
-    "temples": [
+    "temple": [
         1046
     ],
     "duruk": [
         1046
     ],
-    "mentionnent": [
+    "mentionner": [
         1046
     ],
-    "accompagnant": [
+    "accompagner": [
         1046
-    ],
-    "retrouve": [
-        1047
     ],
     "pos\u00e9idon": [
         1047
@@ -10028,22 +7928,19 @@
     "mamirolle": [
         1051
     ],
-    "doubs": [
-        1051
-    ],
-    "montrant": [
+    "doub": [
         1051
     ],
     "chaudron": [
         1051
     ],
-    "d\u00e9funts": [
+    "d\u00e9funt": [
         1053
     ],
-    "fun\u00e9railles": [
+    "fun\u00e9raille": [
         1053
     ],
-    "momies": [
+    "momie": [
         1053
     ],
     "tarim": [
@@ -10069,19 +7966,13 @@
     "convivial": [
         1060
     ],
-    "connus": [
-        1062
-    ],
     "lappenzeller": [
         1062
-    ],
-    "fondu": [
-        1063
     ],
     "raclette": [
         1063
     ],
-    "symboles": [
+    "symbole": [
         1063
     ],
     "patrimoine": [
@@ -10099,10 +7990,10 @@
     "fleurie": [
         1073
     ],
-    "citations": [
+    "citation": [
         1075
     ],
-    "belle": [
+    "beau": [
         1076
     ],
     "physiologie": [
@@ -10117,22 +8008,14 @@
     "gouverner": [
         1078
     ],
-    "sortes": [
-        1078
-    ],
-    "citation": [
-        1078,
-        1079
-    ],
-    "attribu\u00e9e": [
-        1078,
+    "attribuer": [
         1079
     ],
     "gaulle": [
         1078,
         1079
     ],
-    "affirmant": [
+    "affirmer": [
         1079
     ],
     "autant": [
@@ -10147,10 +8030,7 @@
     "churchill": [
         1079
     ],
-    "sadressant": [
-        1079
-    ],
-    "g\u00e9n\u00e9ral": [
+    "sadresser": [
         1079
     ],
     "cheeseeating": [
@@ -10165,22 +8045,22 @@
     "traduction": [
         1081
     ],
-    "singes": [
+    "singe": [
         1081
     ],
-    "capitulards": [
+    "capitulard": [
         1081
     ],
-    "bouffeurs": [
+    "bouffeur": [
         1081
     ],
     "description": [
         1081
     ],
-    "p\u00e9jorative": [
+    "p\u00e9joratif": [
         1081
     ],
-    "invent\u00e9e": [
+    "inventer": [
         1081
     ],
     "s\u00e9rie": [
@@ -10189,10 +8069,10 @@
     "simpson": [
         1081
     ],
-    "popularis\u00e9e": [
+    "populariser": [
         1081
     ],
-    "oppos\u00e9e": [
+    "opposer": [
         1081
     ],
     "lintervention": [
@@ -10201,7 +8081,7 @@
     "militaire": [
         1081
     ],
-    "locutions": [
+    "locution": [
         1083
     ],
     "poire": [
@@ -10213,44 +8093,25 @@
     "lorsque": [
         1084
     ],
-    "deviennent": [
-        1084
-    ],
-    "l\u00e9gers": [
-        1084
-    ],
     "expression": [
         1085
     ],
     "coutume": [
         1086
     ],
-    "voulait": [
+    "finisser": [
         1086
     ],
-    "finisse": [
-        1086
-    ],
-    "disproportionn\u00e9e": [
+    "disproportionn\u00e9": [
         1088
-    ],
-    "d\u00e9signer": [
-        1090,
-        1090
     ],
     "autochtone": [
         1090
     ],
-    "immigr\u00e9s": [
-        1090
-    ],
-    "rapprocher": [
+    "immigr\u00e9": [
         1090
     ],
     "kaaskop": [
-        1090
-    ],
-    "autochtones": [
         1090
     ],
     "symbolique": [
@@ -10265,11 +8126,8 @@
     "paradoxe": [
         1094
     ],
-    "trous": [
+    "trou": [
         1094
-    ],
-    "contienne": [
-        1096
     ],
     "repr\u00e9sentation": [
         1099
@@ -10277,7 +8135,7 @@
     "graphique": [
         1099
     ],
-    "figurant": [
+    "figurer": [
         1101
     ],
     "communal": [
@@ -10286,42 +8144,29 @@
     "parti": [
         1101
     ],
-    "\u00e9lections": [
+    "\u00e9lection": [
         1101
     ],
     "graphe": [
         1103
     ],
-    "statistiques": [
+    "statistique": [
         1103
     ],
-    "repr\u00e9senter": [
+    "proportion": [
         1103
     ],
-    "proportions": [
-        1103
-    ],
-    "secteurs": [
+    "secteur": [
         1103
     ],
     "disque": [
         1103
     ],
-    "portions": [
+    "portion": [
         1103
     ],
     "b\u00e9ja": [
         0
-    ],
-    "elle": [
-        15,
-        69,
-        117,
-        138,
-        416,
-        418,
-        470,
-        595
     ],
     "dans": [
         18,
@@ -10346,7 +8191,7 @@
         859,
         861
     ],
-    "ferri\u00e8res": [
+    "ferri\u00e8re": [
         27
     ],
     "vaud": [
@@ -10366,33 +8211,15 @@
     "doha": [
         184
     ],
-    "leur": [
-        282
-    ],
     "afin": [
         294
     ],
-    "cave": [
-        358,
-        365,
-        365,
-        385,
-        397
-    ],
-    "f\u00e9es": [
+    "f\u00e9e": [
         361
-    ],
-    "noir": [
-        371,
-        383
     ],
     "pastourelle": [
         386,
         387
-    ],
-    "occitanes": [
-        387,
-        411
     ],
     "cantorel": [
         388
@@ -10400,12 +8227,8 @@
     "berger": [
         401
     ],
-    "yves": [
-        401,
+    "yve": [
         402
-    ],
-    "m\u00eame": [
-        434
     ],
     "bien": [
         435
@@ -10422,9 +8245,6 @@
         446,
         447
     ],
-    "lait": [
-        446
-    ],
     "bush": [
         458
     ],
@@ -10436,9 +8256,6 @@
     ],
     "k\u00e4se": [
         513
-    ],
-    "tous": [
-        534
     ],
     "inde": [
         570
@@ -10457,9 +8274,6 @@
     "cela": [
         688,
         870
-    ],
-    "nous": [
-        700
     ],
     "gram": [
         713,
