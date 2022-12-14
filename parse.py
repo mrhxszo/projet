@@ -64,13 +64,20 @@ class FileSearch:
 
     def wordIndex(self):
         """ generates a dictionary of significative words from a dictionary of list of sentences in python"""
-        less4 = self.lessThan(self.indexedFile)
-        capital = self.startCapital(self.indexedFile)
-        merged = less4.copy()
-        merged.update(capital)
+        if(os.path.isfile('./keywords.json')):
+            f = open('keywords.json')
+            merged = json.load(f)
+            return merged
+        else:
+            less4 = self.lessThan(self.indexedFile)
+            capital = self.startCapital(self.indexedFile)
+            merged = less4.copy()
+            merged.update(capital)
 
-        with open("keywords.json", "w", encoding="utf8") as outfile:#json file to check how the dictionary looks like
-            json.dump(merged, outfile)
+            with open("keywords.json", "w", encoding="utf8") as outfile:#json file to check how the dictionary looks like
+                json.dump(merged, outfile)
+            
+            return merged
 
     def lessThan(self, phrases):
 
@@ -124,13 +131,13 @@ class FileSearch:
         for i in self.match : 
             if i not in new_list: 
                 new_list.append(i)
-
+        self.match.clear()
         #affiche les phrases qui matche
         res_final=[]
         for i in new_list:
             res_final.append(self.indexedFile[i])
         print(res_final)
+        res_final=[]
 
 filee = FileSearch()
 filee.parse("./texts")
-filee.wordIndex()
