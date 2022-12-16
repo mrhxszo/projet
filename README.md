@@ -1,4 +1,6 @@
-# projet sytème
+# projet sytème  
+Nischal DHUNGANA
+Antoine CHARVIN
 
 ## MOTEUR DE RECHERCHE
 
@@ -34,6 +36,9 @@ Ces methodes perrmettent de mettre en place les filtres évoqués ci-dessus. La 
 
 #### SEARCH
 Cette méthode sera appelée par l'interface graphique afin de rechercher les matchs entre les mots clés de l'utilisateur avec les mots significtifs. Au final la méthode retourne la ou les phrases qui matchs avec le ou les mots clés ainsi que le documents dont appartient ces phrases. Grâce au package stanza il est possible à l'utilisateur de rentrer par exemple un verbe à l'infinitif et la methode va aussi chercher toutes les conjugaisons de ce verbe. Il en va de même pour pour les pluriels.  
+Exemple :  
+mots clés entrés : "manger"  
+mots pouvant matcher avec "manger" : "mangeait", "manges", "mangeons, ... 
 
 La partie visible du programme par l'utilisateur est le fichier gui.py. Il permet une utilisation plus commode qu'un terminal pour quelqu'un qui n'y est pas habitué. Plusieurs mots clés peuvent être entrés, ils seront séparés par un split afin de faire la recherche. Exemple :  
 mots clés entrés : "légers brebis"  
