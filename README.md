@@ -42,7 +42,7 @@ mots pouvant matcher avec "manger" : "mangeait", "manges", "mangeons, ...
 
 La partie visible du programme par l'utilisateur est le fichier gui.py. Il permet une utilisation plus commode qu'un terminal pour quelqu'un qui n'y est pas habitué. Plusieurs mots clés peuvent être entrés, ils seront séparés par un split afin de faire la recherche. Exemple :  
 mots clés entrés : "légers brebis"  
-mots clés retenu par le programme : "légers" "brebis"  
+mots clés retenu par le programme : "Fromage" "Camembert"  
 
 
 ## AJOUT DEPUIS LA PRESENTATION SUR MACHINE DU MARDI 13 DECEMBRE
